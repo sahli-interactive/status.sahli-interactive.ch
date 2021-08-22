@@ -186,19 +186,19 @@
     "url": "https://www.forum-sumiswald.ch",
     "icon": "https://favicons.githubusercontent.com/www.forum-sumiswald.ch",
     "slug": "forum-sumiswald",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 913,
-    "timeDay": 905,
-    "timeWeek": 913,
-    "timeMonth": 913,
-    "timeYear": 913,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 924,
+    "timeDay": 932,
+    "timeWeek": 924,
+    "timeMonth": 924,
+    "timeYear": 924,
     "dailyMinutesDown": {
-      "2021-08-22": 0
+      "2021-08-22": 22
     }
   },
   {
