@@ -397,19 +397,19 @@
     "url": "https://www.ruefenacht-elektro.ch",
     "icon": "https://favicons.githubusercontent.com/www.ruefenacht-elektro.ch",
     "slug": "ruefenacht-elektro-ag",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 199,
-    "timeDay": 102,
-    "timeWeek": 205,
+    "timeDay": 151,
+    "timeWeek": 204,
     "timeMonth": 199,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2021-09-14": 0
+      "2021-09-14": 8
     }
   },
   {
