@@ -338,19 +338,19 @@
     "url": "https://mgnrecht.ch",
     "icon": "https://favicons.githubusercontent.com/mgnrecht.ch",
     "slug": "masina-gfeller-nyffenegger",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 1041,
-    "timeWeek": 891,
-    "timeMonth": 913,
-    "timeYear": 927,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 933,
+    "timeDay": 1093,
+    "timeWeek": 922,
+    "timeMonth": 920,
+    "timeYear": 933,
     "dailyMinutesDown": {
-      "2021-09-24": 1
+      "2021-09-24": 12
     }
   },
   {
