@@ -113,19 +113,18 @@
     "icon": "https://favicons.githubusercontent.com/fairmed.cm",
     "slug": "fairmed-kamerun",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1409,
     "timeDay": 2081,
     "timeWeek": 1613,
     "timeMonth": 1550,
     "timeYear": 1409,
     "dailyMinutesDown": {
-      "2021-09-24": 24,
-      "2021-08-19": 8
+      "2021-09-24": 24
     }
   },
   {
@@ -471,19 +470,19 @@
     "url": "https://www.sport-amstutz.ch",
     "icon": "https://favicons.githubusercontent.com/www.sport-amstutz.ch",
     "slug": "sport-amstutz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 583,
-    "timeWeek": 378,
-    "timeMonth": 345,
-    "timeYear": 342,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 348,
+    "timeDay": 688,
+    "timeWeek": 436,
+    "timeMonth": 362,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2021-11-12": 0
+      "2021-11-12": 10
     }
   },
   {
