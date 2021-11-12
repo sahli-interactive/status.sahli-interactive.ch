@@ -280,19 +280,17 @@
     "icon": "https://favicons.githubusercontent.com/www.insecor.ch",
     "slug": "insecor",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1050,
     "timeDay": 1248,
     "timeWeek": 1023,
     "timeMonth": 1047,
     "timeYear": 1050,
-    "dailyMinutesDown": {
-      "2021-08-22": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "M & T Schreinerei GmbH",
@@ -372,11 +370,11 @@
     "icon": "https://favicons.githubusercontent.com/www.philosophie.ch",
     "slug": "philosophie-ch",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.99%",
-    "uptimeYear": "98.82%",
+    "uptimeYear": "98.83%",
     "time": 2293,
     "timeDay": 2782,
     "timeWeek": 2191,
@@ -473,18 +471,20 @@
     "url": "https://www.sport-amstutz.ch",
     "icon": "https://favicons.githubusercontent.com/www.sport-amstutz.ch",
     "slug": "sport-amstutz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 342,
-    "timeWeek": 314,
-    "timeMonth": 329,
-    "timeYear": 336,
-    "dailyMinutesDown": {}
+    "time": 342,
+    "timeDay": 583,
+    "timeWeek": 378,
+    "timeMonth": 345,
+    "timeYear": 342,
+    "dailyMinutesDown": {
+      "2021-11-12": 0
+    }
   },
   {
     "name": "Traumbaum",
