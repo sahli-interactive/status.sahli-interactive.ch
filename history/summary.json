@@ -369,11 +369,11 @@
     "icon": "https://favicons.githubusercontent.com/www.philosophie.ch",
     "slug": "philosophie-ch",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.99%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "98.89%",
     "time": 2287,
     "timeDay": 2305,
     "timeWeek": 2178,
@@ -394,9 +394,9 @@
     "url": "https://www.ruefenacht-elektro.ch",
     "icon": "https://favicons.githubusercontent.com/www.ruefenacht-elektro.ch",
     "slug": "ruefenacht-elektro-ag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -405,7 +405,9 @@
     "timeWeek": 151,
     "timeMonth": 214,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "sahli:interactive",
