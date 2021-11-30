@@ -13,7 +13,7 @@
     "time": 754,
     "timeDay": 678,
     "timeWeek": 788,
-    "timeMonth": 818,
+    "timeMonth": 814,
     "timeYear": 754,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 835,
     "timeDay": 603,
     "timeWeek": 723,
-    "timeMonth": 833,
+    "timeMonth": 825,
     "timeYear": 835,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 348,
     "timeDay": 336,
     "timeWeek": 336,
-    "timeMonth": 345,
+    "timeMonth": 344,
     "timeYear": 348,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 456,
     "timeDay": 407,
     "timeWeek": 415,
-    "timeMonth": 500,
+    "timeMonth": 505,
     "timeYear": 456,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1023,
     "timeDay": 721,
     "timeWeek": 834,
-    "timeMonth": 1003,
+    "timeMonth": 991,
     "timeYear": 1023,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 1127,
     "timeDay": 960,
     "timeWeek": 1013,
-    "timeMonth": 1124,
+    "timeMonth": 1111,
     "timeYear": 1127,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 1415,
     "timeDay": 1041,
     "timeWeek": 1325,
-    "timeMonth": 1532,
+    "timeMonth": 1514,
     "timeYear": 1415,
     "dailyMinutesDown": {
       "2021-09-24": 24
@@ -141,7 +141,7 @@
     "time": 1200,
     "timeDay": 1178,
     "timeWeek": 1254,
-    "timeMonth": 1210,
+    "timeMonth": 1215,
     "timeYear": 1200,
     "dailyMinutesDown": {}
   },
@@ -159,7 +159,7 @@
     "time": 3188,
     "timeDay": 3569,
     "timeWeek": 2958,
-    "timeMonth": 3128,
+    "timeMonth": 3130,
     "timeYear": 3188,
     "dailyMinutesDown": {}
   },
@@ -233,7 +233,7 @@
     "time": 645,
     "timeDay": 381,
     "timeWeek": 364,
-    "timeMonth": 1170,
+    "timeMonth": 1193,
     "timeYear": 645,
     "dailyMinutesDown": {}
   },
@@ -251,7 +251,7 @@
     "time": 343,
     "timeDay": 225,
     "timeWeek": 271,
-    "timeMonth": 326,
+    "timeMonth": 325,
     "timeYear": 343,
     "dailyMinutesDown": {}
   },
@@ -269,7 +269,7 @@
     "time": 497,
     "timeDay": 460,
     "timeWeek": 414,
-    "timeMonth": 468,
+    "timeMonth": 470,
     "timeYear": 497,
     "dailyMinutesDown": {}
   },
@@ -287,7 +287,7 @@
     "time": 1041,
     "timeDay": 885,
     "timeWeek": 946,
-    "timeMonth": 1023,
+    "timeMonth": 1014,
     "timeYear": 1041,
     "dailyMinutesDown": {}
   },
@@ -305,7 +305,7 @@
     "time": 364,
     "timeDay": 347,
     "timeWeek": 340,
-    "timeMonth": 347,
+    "timeMonth": 348,
     "timeYear": 364,
     "dailyMinutesDown": {}
   },
@@ -323,7 +323,7 @@
     "time": 596,
     "timeDay": 426,
     "timeWeek": 526,
-    "timeMonth": 589,
+    "timeMonth": 584,
     "timeYear": 596,
     "dailyMinutesDown": {}
   },
@@ -359,7 +359,7 @@
     "time": 733,
     "timeDay": 643,
     "timeWeek": 653,
-    "timeMonth": 736,
+    "timeMonth": 729,
     "timeYear": 733,
     "dailyMinutesDown": {}
   },
@@ -368,19 +368,19 @@
     "url": "https://www.philosophie.ch",
     "icon": "https://favicons.githubusercontent.com/www.philosophie.ch",
     "slug": "philosophie-ch",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.96%",
-    "time": 2244,
-    "timeDay": 1714,
-    "timeWeek": 1934,
-    "timeMonth": 2075,
-    "timeYear": 2244,
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.97%",
+    "time": 2238,
+    "timeDay": 1647,
+    "timeWeek": 1893,
+    "timeMonth": 2061,
+    "timeYear": 2238,
     "dailyMinutesDown": {
-      "2021-11-30": 8,
+      "2021-11-30": 1,
       "2021-11-29": 101,
       "2021-11-01": 383,
       "2021-10-31": 58,
@@ -501,7 +501,7 @@
     "time": 337,
     "timeDay": 324,
     "timeWeek": 323,
-    "timeMonth": 337,
+    "timeMonth": 336,
     "timeYear": 337,
     "dailyMinutesDown": {}
   },
@@ -519,7 +519,7 @@
     "time": 808,
     "timeDay": 871,
     "timeWeek": 848,
-    "timeMonth": 865,
+    "timeMonth": 852,
     "timeYear": 808,
     "dailyMinutesDown": {}
   }
