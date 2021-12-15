@@ -94,10 +94,10 @@
     "url": "https://www.etage-est.ch",
     "icon": "https://favicons.githubusercontent.com/www.etage-est.ch",
     "slug": "etage-est-gmb-h",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1125,
@@ -105,7 +105,9 @@
     "timeWeek": 1137,
     "timeMonth": 1101,
     "timeYear": 1125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 2
+    }
   },
   {
     "name": "FAIRMED Kamerun",
@@ -369,11 +371,11 @@
     "icon": "https://favicons.githubusercontent.com/www.philosophie.ch",
     "slug": "philosophie-ch",
     "status": "up",
-    "uptime": "98.77%",
+    "uptime": "98.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.52%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.78%",
     "time": 2235,
     "timeDay": 1988,
     "timeWeek": 2212,
