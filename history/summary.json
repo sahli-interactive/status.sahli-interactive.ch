@@ -193,7 +193,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1008,
-    "timeDay": 920,
+    "timeDay": 966,
     "timeWeek": 1073,
     "timeMonth": 991,
     "timeYear": 1008,
@@ -351,9 +351,9 @@
     "url": "https://www.notariat-haas.ch",
     "icon": "https://favicons.githubusercontent.com/www.notariat-haas.ch",
     "slug": "notariat-haas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -362,7 +362,9 @@
     "timeWeek": 727,
     "timeMonth": 744,
     "timeYear": 732,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "Philosophie.ch",
@@ -370,11 +372,11 @@
     "icon": "https://favicons.githubusercontent.com/www.philosophie.ch",
     "slug": "philosophie-ch",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.10%",
     "time": 2184,
     "timeDay": 2445,
     "timeWeek": 1886,
