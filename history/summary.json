@@ -112,9 +112,9 @@
     "url": "https://fairmed.cm",
     "icon": "https://favicons.githubusercontent.com/fairmed.cm",
     "slug": "fairmed-kamerun",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -124,6 +124,7 @@
     "timeMonth": 1085,
     "timeYear": 1318,
     "dailyMinutesDown": {
+      "2022-02-16": 0,
       "2022-02-06": 16,
       "2021-09-24": 24
     }
