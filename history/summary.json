@@ -10,11 +10,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 598,
-    "timeWeek": 730,
-    "timeMonth": 746,
-    "timeYear": 768,
+    "time": 767,
+    "timeDay": 597,
+    "timeWeek": 742,
+    "timeMonth": 745,
+    "timeYear": 767,
     "dailyMinutesDown": {
       "2022-02-25": 9
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 849,
-    "timeDay": 614,
-    "timeWeek": 794,
-    "timeMonth": 899,
-    "timeYear": 849,
+    "time": 851,
+    "timeDay": 1103,
+    "timeWeek": 854,
+    "timeMonth": 901,
+    "timeYear": 851,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 340,
+    "time": 341,
     "timeDay": 259,
-    "timeWeek": 288,
-    "timeMonth": 318,
-    "timeYear": 340,
+    "timeWeek": 291,
+    "timeMonth": 319,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2022-02-25": 9
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 436,
-    "timeDay": 379,
-    "timeWeek": 407,
-    "timeMonth": 427,
+    "timeDay": 371,
+    "timeWeek": 416,
+    "timeMonth": 429,
     "timeYear": 436,
     "dailyMinutesDown": {
       "2022-02-25": 9
@@ -89,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1065,
-    "timeDay": 700,
-    "timeWeek": 880,
+    "timeDay": 1111,
+    "timeWeek": 928,
     "timeMonth": 1147,
     "timeYear": 1065,
     "dailyMinutesDown": {}
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1137,
-    "timeDay": 1036,
-    "timeWeek": 1109,
+    "time": 1138,
+    "timeDay": 1337,
+    "timeWeek": 1156,
     "timeMonth": 1186,
-    "timeYear": 1137,
+    "timeYear": 1138,
     "dailyMinutesDown": {}
   },
   {
@@ -125,9 +125,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 1311,
-    "timeDay": 1054,
-    "timeWeek": 1172,
-    "timeMonth": 1125,
+    "timeDay": 1237,
+    "timeWeek": 1201,
+    "timeMonth": 1126,
     "timeYear": 1311,
     "dailyMinutesDown": {
       "2022-02-25": 9,
@@ -147,11 +147,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1178,
-    "timeDay": 945,
-    "timeWeek": 1308,
-    "timeMonth": 1210,
-    "timeYear": 1178,
+    "time": 1179,
+    "timeDay": 1007,
+    "timeWeek": 1331,
+    "timeMonth": 1220,
+    "timeYear": 1179,
     "dailyMinutesDown": {
       "2022-02-25": 9
     }
@@ -167,11 +167,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 3167,
-    "timeDay": 1986,
-    "timeWeek": 2726,
-    "timeMonth": 3314,
-    "timeYear": 3167,
+    "time": 3166,
+    "timeDay": 1900,
+    "timeWeek": 2732,
+    "timeMonth": 3304,
+    "timeYear": 3166,
     "dailyMinutesDown": {
       "2022-02-25": 9
     }
@@ -187,11 +187,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2703,
-    "timeDay": 1854,
-    "timeWeek": 2444,
-    "timeMonth": 3068,
-    "timeYear": 2703,
+    "time": 2704,
+    "timeDay": 1918,
+    "timeWeek": 2498,
+    "timeMonth": 3052,
+    "timeYear": 2704,
     "dailyMinutesDown": {
       "2022-02-25": 9
     }
@@ -208,9 +208,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 1007,
-    "timeDay": 654,
-    "timeWeek": 885,
-    "timeMonth": 1006,
+    "timeDay": 659,
+    "timeWeek": 882,
+    "timeMonth": 993,
     "timeYear": 1007,
     "dailyMinutesDown": {
       "2022-02-25": 9,
@@ -230,9 +230,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 626,
-    "timeDay": 399,
-    "timeWeek": 546,
-    "timeMonth": 585,
+    "timeDay": 385,
+    "timeWeek": 540,
+    "timeMonth": 583,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2022-02-25": 9
@@ -245,18 +245,16 @@
     "slug": "goju-kan-bern-ag",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 513,
-    "timeDay": 249,
-    "timeWeek": 344,
+    "timeDay": 285,
+    "timeWeek": 347,
     "timeMonth": 353,
     "timeYear": 513,
-    "dailyMinutesDown": {
-      "2022-02-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hirter Bedachungen AG",
@@ -265,18 +263,16 @@
     "slug": "hirter-bedachungen-ag",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 247,
-    "timeWeek": 287,
-    "timeMonth": 341,
-    "timeYear": 330,
-    "dailyMinutesDown": {
-      "2022-02-25": 9
-    }
+    "time": 331,
+    "timeDay": 254,
+    "timeWeek": 291,
+    "timeMonth": 342,
+    "timeYear": 331,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Huldi + Stucki AG",
@@ -285,18 +281,16 @@
     "slug": "huldi-stucki-ag",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 491,
-    "timeDay": 327,
-    "timeWeek": 412,
-    "timeMonth": 504,
+    "timeDay": 318,
+    "timeWeek": 404,
+    "timeMonth": 502,
     "timeYear": 491,
-    "dailyMinutesDown": {
-      "2022-02-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Insecor",
@@ -310,8 +304,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1040,
-    "timeDay": 870,
-    "timeWeek": 985,
+    "timeDay": 1151,
+    "timeWeek": 1023,
     "timeMonth": 1061,
     "timeYear": 1040,
     "dailyMinutesDown": {}
@@ -323,18 +317,16 @@
     "slug": "m-and-t-schreinerei-gmb-h",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 350,
-    "timeDay": 275,
-    "timeWeek": 310,
+    "timeDay": 261,
+    "timeWeek": 306,
     "timeMonth": 325,
     "timeYear": 350,
-    "dailyMinutesDown": {
-      "2022-02-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Malerei Zimmermann",
@@ -343,18 +335,16 @@
     "slug": "malerei-zimmermann",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 600,
-    "timeDay": 419,
-    "timeWeek": 530,
-    "timeMonth": 614,
+    "timeDay": 493,
+    "timeWeek": 542,
+    "timeMonth": 613,
     "timeYear": 600,
-    "dailyMinutesDown": {
-      "2022-02-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Masina. Gfeller. Nyffenegger",
@@ -367,11 +357,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 960,
-    "timeDay": 794,
-    "timeWeek": 909,
+    "time": 961,
+    "timeDay": 1210,
+    "timeWeek": 976,
     "timeMonth": 1022,
-    "timeYear": 960,
+    "timeYear": 961,
     "dailyMinutesDown": {}
   },
   {
@@ -385,11 +375,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
-    "time": 737,
-    "timeDay": 578,
-    "timeWeek": 719,
-    "timeMonth": 771,
-    "timeYear": 737,
+    "time": 738,
+    "timeDay": 915,
+    "timeWeek": 756,
+    "timeMonth": 773,
+    "timeYear": 738,
     "dailyMinutesDown": {
       "2022-01-27": 93
     }
@@ -405,11 +395,11 @@
     "uptimeWeek": "99.35%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "99.05%",
-    "time": 2165,
-    "timeDay": 2035,
-    "timeWeek": 1945,
-    "timeMonth": 2064,
-    "timeYear": 2165,
+    "time": 2166,
+    "timeDay": 2266,
+    "timeWeek": 2016,
+    "timeMonth": 2062,
+    "timeYear": 2166,
     "dailyMinutesDown": {
       "2022-02-25": 65,
       "2022-02-01": 374,
@@ -440,9 +430,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 223,
-    "timeDay": 222,
-    "timeWeek": 186,
-    "timeMonth": 202,
+    "timeDay": 205,
+    "timeWeek": 188,
+    "timeMonth": 197,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2021-11-16": 19
@@ -455,17 +445,16 @@
     "slug": "sahli-interactive",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 395,
-    "timeDay": 292,
-    "timeWeek": 287,
-    "timeMonth": 333,
+    "timeDay": 313,
+    "timeWeek": 291,
+    "timeMonth": 334,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2022-02-25": 9,
       "2021-09-24": 22
     }
   },
@@ -476,18 +465,16 @@
     "slug": "sahli-beschriftung",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 709,
-    "timeDay": 523,
-    "timeWeek": 619,
-    "timeMonth": 717,
-    "timeYear": 709,
-    "dailyMinutesDown": {
-      "2022-02-25": 9
-    }
+    "time": 710,
+    "timeDay": 585,
+    "timeWeek": 653,
+    "timeMonth": 718,
+    "timeYear": 710,
+    "dailyMinutesDown": {}
   },
   {
     "name": "sahli.app",
@@ -500,11 +487,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1148,
-    "timeDay": 689,
-    "timeWeek": 973,
-    "timeMonth": 1105,
-    "timeYear": 1148,
+    "time": 1149,
+    "timeDay": 1176,
+    "timeWeek": 1043,
+    "timeMonth": 1100,
+    "timeYear": 1149,
     "dailyMinutesDown": {
       "2021-09-24": 65
     }
@@ -516,18 +503,16 @@
     "slug": "sport-amstutz",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 241,
-    "timeWeek": 269,
-    "timeMonth": 292,
+    "timeDay": 242,
+    "timeWeek": 273,
+    "timeMonth": 293,
     "timeYear": 319,
-    "dailyMinutesDown": {
-      "2022-02-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Traumbaum",
@@ -536,18 +521,16 @@
     "slug": "traumbaum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 328,
-    "timeDay": 262,
-    "timeWeek": 302,
+    "timeDay": 246,
+    "timeWeek": 294,
     "timeMonth": 330,
     "timeYear": 328,
-    "dailyMinutesDown": {
-      "2022-02-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "urSIGN",
@@ -556,17 +539,15 @@
     "slug": "ur-sign",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 829,
-    "timeDay": 645,
-    "timeWeek": 772,
-    "timeMonth": 826,
+    "timeDay": 624,
+    "timeWeek": 771,
+    "timeMonth": 825,
     "timeYear": 829,
-    "dailyMinutesDown": {
-      "2022-02-25": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
