@@ -213,10 +213,10 @@
     "url": "https://www.kraeuchi.ch",
     "icon": "https://favicons.githubusercontent.com/www.kraeuchi.ch",
     "slug": "glas-werkstatt-kraeuchi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 624,
@@ -224,7 +224,9 @@
     "timeWeek": 681,
     "timeMonth": 617,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-29": 1
+    }
   },
   {
     "name": "Goju Kan Bern AG",
@@ -239,7 +241,7 @@
     "uptimeYear": "100.00%",
     "time": 492,
     "timeDay": 372,
-    "timeWeek": 374,
+    "timeWeek": 368,
     "timeMonth": 362,
     "timeYear": 492,
     "dailyMinutesDown": {}
