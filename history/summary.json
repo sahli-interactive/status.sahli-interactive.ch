@@ -285,10 +285,10 @@
     "url": "https://www.insecor.ch",
     "icon": "https://favicons.githubusercontent.com/www.insecor.ch",
     "slug": "insecor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1048,
@@ -296,7 +296,9 @@
     "timeWeek": 1066,
     "timeMonth": 1095,
     "timeYear": 1048,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-20": 1
+    }
   },
   {
     "name": "M & T Schreinerei GmbH",
