@@ -154,19 +154,19 @@
     "url": "https://www.fairmed.ch",
     "icon": "https://favicons.githubusercontent.com/www.fairmed.ch",
     "slug": "fairmed-schweiz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 3081,
-    "timeDay": 1388,
-    "timeWeek": 2313,
-    "timeMonth": 2585,
-    "timeYear": 3081,
+    "time": 3074,
+    "timeDay": 1219,
+    "timeWeek": 2154,
+    "timeMonth": 2534,
+    "timeYear": 3074,
     "dailyMinutesDown": {
-      "2022-06-01": 1
+      "2022-06-01": 15
     }
   },
   {
@@ -383,7 +383,7 @@
     "uptime": "98.59%",
     "uptimeDay": "71.76%",
     "uptimeWeek": "95.97%",
-    "uptimeMonth": "96.70%",
+    "uptimeMonth": "96.73%",
     "uptimeYear": "98.59%",
     "time": 2150,
     "timeDay": 1381,
