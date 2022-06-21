@@ -48,19 +48,19 @@
     "url": "https://www.cerlettimmobilien.ch",
     "icon": "https://favicons.githubusercontent.com/www.cerlettimmobilien.ch",
     "slug": "cerletti-immobilien",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
-    "time": 344,
-    "timeDay": 389,
-    "timeWeek": 329,
-    "timeMonth": 345,
-    "timeYear": 344,
+    "time": 347,
+    "timeDay": 726,
+    "timeWeek": 421,
+    "timeMonth": 366,
+    "timeYear": 347,
     "dailyMinutesDown": {
-      "2022-06-21": 23,
+      "2022-06-21": 31,
       "2022-06-14": 31,
       "2022-06-13": 16
     }
@@ -320,9 +320,9 @@
     "slug": "huldi-stucki-ag",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 500,
     "timeDay": 833,
@@ -330,7 +330,6 @@
     "timeMonth": 555,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2022-06-21": 14,
       "2022-06-14": 30
     }
   },
@@ -359,9 +358,9 @@
     "slug": "m-and-t-schreinerei-gmb-h",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 343,
     "timeDay": 486,
@@ -369,7 +368,6 @@
     "timeMonth": 325,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-06-21": 13,
       "2022-06-14": 29
     }
   },
@@ -380,18 +378,16 @@
     "slug": "malerei-zimmermann",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 605,
     "timeDay": 671,
     "timeWeek": 617,
     "timeMonth": 625,
     "timeYear": 605,
-    "dailyMinutesDown": {
-      "2022-06-21": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Masina. Gfeller. Nyffenegger",
@@ -605,9 +601,9 @@
     "slug": "ur-sign",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 851,
     "timeDay": 1160,
@@ -615,7 +611,7 @@
     "timeMonth": 903,
     "timeYear": 851,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 9
     }
   }
 ]
