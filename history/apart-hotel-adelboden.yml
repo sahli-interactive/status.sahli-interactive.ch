@@ -1,7 +1,7 @@
 url: https://www.aparthotel-adelboden.ch
-status: up
-code: 200
-responseTime: 672
-lastUpdated: 2022-06-30T15:16:57.172Z
+status: down
+code: 403
+responseTime: 120
+lastUpdated: 2022-06-30T23:00:32.388Z
 startTime: Wed Aug 18 2021 09:46:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
