@@ -1,7 +1,7 @@
 url: https://fairmed.cm
-status: up
-code: 200
-responseTime: 1067
-lastUpdated: 2022-07-01T23:02:01.464Z
+status: down
+code: 403
+responseTime: 122
+lastUpdated: 2022-07-02T05:40:21.377Z
 startTime: Wed Aug 18 2021 09:46:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
