@@ -13,7 +13,7 @@
     "time": 796,
     "timeDay": 772,
     "timeWeek": 791,
-    "timeMonth": 781,
+    "timeMonth": 802,
     "timeYear": 796,
     "dailyMinutesDown": {
       "2022-06-30": 149,
@@ -58,7 +58,7 @@
     "time": 340,
     "timeDay": 273,
     "timeWeek": 339,
-    "timeMonth": 328,
+    "timeMonth": 338,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2022-06-30": 149,
@@ -81,7 +81,7 @@
     "time": 415,
     "timeDay": 283,
     "timeWeek": 445,
-    "timeMonth": 408,
+    "timeMonth": 416,
     "timeYear": 415,
     "dailyMinutesDown": {
       "2022-06-30": 149,
@@ -146,7 +146,7 @@
     "time": 1283,
     "timeDay": 1188,
     "timeWeek": 1414,
-    "timeMonth": 1181,
+    "timeMonth": 1204,
     "timeYear": 1283,
     "dailyMinutesDown": {
       "2022-06-30": 149,
@@ -172,7 +172,7 @@
     "time": 1181,
     "timeDay": 1109,
     "timeWeek": 1160,
-    "timeMonth": 1180,
+    "timeMonth": 1212,
     "timeYear": 1181,
     "dailyMinutesDown": {
       "2022-06-30": 149,
@@ -195,7 +195,7 @@
     "time": 2515,
     "timeDay": 928,
     "timeWeek": 1010,
-    "timeMonth": 885,
+    "timeMonth": 907,
     "timeYear": 2515,
     "dailyMinutesDown": {
       "2022-06-30": 149,
@@ -219,7 +219,7 @@
     "time": 2688,
     "timeDay": 2883,
     "timeWeek": 2876,
-    "timeMonth": 2602,
+    "timeMonth": 2671,
     "timeYear": 2688,
     "dailyMinutesDown": {
       "2022-06-30": 149,
@@ -242,7 +242,7 @@
     "time": 1036,
     "timeDay": 988,
     "timeWeek": 1016,
-    "timeMonth": 969,
+    "timeMonth": 987,
     "timeYear": 1036,
     "dailyMinutesDown": {
       "2022-06-30": 149,
@@ -269,7 +269,7 @@
     "time": 617,
     "timeDay": 565,
     "timeWeek": 613,
-    "timeMonth": 625,
+    "timeMonth": 643,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2022-06-30": 148,
@@ -292,7 +292,7 @@
     "time": 437,
     "timeDay": 338,
     "timeWeek": 467,
-    "timeMonth": 356,
+    "timeMonth": 361,
     "timeYear": 437,
     "dailyMinutesDown": {
       "2022-06-30": 148,
@@ -315,7 +315,7 @@
     "time": 317,
     "timeDay": 324,
     "timeWeek": 331,
-    "timeMonth": 326,
+    "timeMonth": 328,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2022-06-30": 148,
@@ -338,7 +338,7 @@
     "time": 485,
     "timeDay": 347,
     "timeWeek": 512,
-    "timeMonth": 452,
+    "timeMonth": 464,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2022-06-30": 148,
@@ -377,7 +377,7 @@
     "time": 334,
     "timeDay": 239,
     "timeWeek": 352,
-    "timeMonth": 327,
+    "timeMonth": 335,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2022-06-30": 148,
@@ -398,7 +398,7 @@
     "time": 582,
     "timeDay": 496,
     "timeWeek": 597,
-    "timeMonth": 521,
+    "timeMonth": 534,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2022-06-30": 148
@@ -450,19 +450,19 @@
     "url": "https://www.philosophie.ch",
     "icon": "https://favicons.githubusercontent.com/www.philosophie.ch",
     "slug": "philosophie-ch",
-    "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "90.43%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.70%",
-    "time": 2135,
-    "timeDay": 823,
-    "timeWeek": 2021,
-    "timeMonth": 1945,
-    "timeYear": 2135,
+    "status": "up",
+    "uptime": "98.63%",
+    "uptimeDay": "64.18%",
+    "uptimeWeek": "94.88%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.63%",
+    "time": 2134,
+    "timeDay": 1153,
+    "timeWeek": 1998,
+    "timeMonth": 1934,
+    "timeYear": 2134,
     "dailyMinutesDown": {
-      "2022-08-01": 24,
+      "2022-08-01": 402,
       "2022-07-31": 114,
       "2022-07-01": 397,
       "2022-06-30": 118,
@@ -531,7 +531,7 @@
     "time": 368,
     "timeDay": 196,
     "timeWeek": 367,
-    "timeMonth": 334,
+    "timeMonth": 340,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2022-06-30": 148,
@@ -553,7 +553,7 @@
     "time": 683,
     "timeDay": 490,
     "timeWeek": 680,
-    "timeMonth": 618,
+    "timeMonth": 630,
     "timeYear": 683,
     "dailyMinutesDown": {
       "2022-06-30": 148
@@ -594,7 +594,7 @@
     "time": 298,
     "timeDay": 264,
     "timeWeek": 308,
-    "timeMonth": 283,
+    "timeMonth": 289,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2022-06-30": 148
@@ -614,7 +614,7 @@
     "time": 319,
     "timeDay": 313,
     "timeWeek": 305,
-    "timeMonth": 309,
+    "timeMonth": 312,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2022-06-30": 148
@@ -634,7 +634,7 @@
     "time": 834,
     "timeDay": 1851,
     "timeWeek": 1178,
-    "timeMonth": 894,
+    "timeMonth": 919,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2022-06-30": 148,
