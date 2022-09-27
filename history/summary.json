@@ -116,10 +116,10 @@
     "url": "https://www.etage-est.ch",
     "icon": "https://favicons.githubusercontent.com/www.etage-est.ch",
     "slug": "etage-est-gmb-h",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1145,
@@ -128,6 +128,7 @@
     "timeMonth": 1079,
     "timeYear": 1148,
     "dailyMinutesDown": {
+      "2022-09-27": 1,
       "2022-06-14": 31,
       "2022-06-13": 13
     }
@@ -410,10 +411,10 @@
     "url": "https://mgnrecht.ch",
     "icon": "https://favicons.githubusercontent.com/mgnrecht.ch",
     "slug": "masina-gfeller-nyffenegger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 960,
@@ -422,6 +423,7 @@
     "timeMonth": 913,
     "timeYear": 964,
     "dailyMinutesDown": {
+      "2022-09-27": 1,
       "2022-06-14": 27
     }
   },
@@ -630,7 +632,7 @@
     "icon": "https://favicons.githubusercontent.com/www.ursign.ch",
     "slug": "ur-sign",
     "status": "up",
-    "uptime": "97.85%",
+    "uptime": "97.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
