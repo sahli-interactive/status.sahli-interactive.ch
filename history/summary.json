@@ -28,10 +28,10 @@
     "url": "https://win.cardinal.ch",
     "icon": "https://icons.duckduckgo.com/ip3/win.cardinal.ch.ico",
     "slug": "cardinal-coolbox-promotion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 851,
@@ -40,6 +40,7 @@
     "timeMonth": 879,
     "timeYear": 853,
     "dailyMinutesDown": {
+      "2022-11-08": 1,
       "2022-06-14": 31,
       "2022-06-13": 17
     }
@@ -458,12 +459,12 @@
     "status": "up",
     "uptime": "98.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.47%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "98.22%",
     "time": 2107,
     "timeDay": 1463,
-    "timeWeek": 2501,
+    "timeWeek": 2588,
     "timeMonth": 2202,
     "timeYear": 2059,
     "dailyMinutesDown": {
