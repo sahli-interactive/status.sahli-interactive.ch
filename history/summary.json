@@ -263,7 +263,7 @@
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.30%",
     "time": 605,
     "timeDay": 598,
@@ -353,11 +353,11 @@
     "url": "https://www.insecor.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.insecor.ch.ico",
     "slug": "insecor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1244,
     "timeDay": 2873,
@@ -365,7 +365,7 @@
     "timeMonth": 1939,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2022-11-10": 10
+      "2022-11-10": 1
     }
   },
   {
@@ -458,7 +458,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.philosophie.ch.ico",
     "slug": "philosophie-ch",
     "status": "up",
-    "uptime": "98.32%",
+    "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.00%",
