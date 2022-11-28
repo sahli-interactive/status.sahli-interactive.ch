@@ -6,17 +6,16 @@
     "slug": "apart-hotel-adelboden",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.88%",
     "time": 798,
     "timeDay": 858,
     "timeWeek": 809,
     "timeMonth": 845,
-    "timeYear": 808,
+    "timeYear": 809,
     "dailyMinutesDown": {
-      "2022-11-27": 2,
       "2022-11-12": 344,
       "2022-06-30": 149,
       "2022-06-21": 20,
@@ -129,7 +128,7 @@
     "timeDay": 1041,
     "timeWeek": 1047,
     "timeMonth": 1108,
-    "timeYear": 1145,
+    "timeYear": 1144,
     "dailyMinutesDown": {
       "2022-09-28": 61,
       "2022-06-14": 31,
@@ -176,7 +175,7 @@
     "timeDay": 1265,
     "timeWeek": 1168,
     "timeMonth": 1209,
-    "timeYear": 1189,
+    "timeYear": 1188,
     "dailyMinutesDown": {
       "2022-06-30": 149,
       "2022-06-21": 19,
@@ -199,7 +198,7 @@
     "timeDay": 756,
     "timeWeek": 820,
     "timeMonth": 896,
-    "timeYear": 1894,
+    "timeYear": 1891,
     "dailyMinutesDown": {
       "2022-06-30": 149,
       "2022-06-21": 19,
@@ -246,7 +245,7 @@
     "timeDay": 925,
     "timeWeek": 852,
     "timeMonth": 898,
-    "timeYear": 1033,
+    "timeYear": 1034,
     "dailyMinutesDown": {
       "2022-06-30": 149,
       "2022-06-21": 18,
@@ -318,7 +317,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 320,
+    "time": 319,
     "timeDay": 330,
     "timeWeek": 383,
     "timeMonth": 326,
@@ -407,7 +406,7 @@
     "timeDay": 609,
     "timeWeek": 570,
     "timeMonth": 603,
-    "timeYear": 583,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2022-06-30": 148
     }
@@ -470,7 +469,7 @@
     "timeDay": 1926,
     "timeWeek": 1911,
     "timeMonth": 2043,
-    "timeYear": 2052,
+    "timeYear": 2051,
     "dailyMinutesDown": {
       "2022-11-01": 379,
       "2022-10-31": 58,
@@ -524,7 +523,7 @@
     "timeDay": 350,
     "timeWeek": 199,
     "timeMonth": 380,
-    "timeYear": 392,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2022-11-04": 18,
       "2022-08-10": 16,
@@ -571,7 +570,7 @@
     "timeDay": 770,
     "timeWeek": 720,
     "timeMonth": 732,
-    "timeYear": 685,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2022-06-30": 148
     }
