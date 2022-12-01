@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aparthotel-adelboden.ch.ico",
     "slug": "apart-hotel-adelboden",
     "status": "down",
-    "uptime": "99.50%",
+    "uptime": "99.49%",
     "uptimeDay": "6.19%",
-    "uptimeWeek": "73.14%",
-    "uptimeMonth": "93.03%",
-    "uptimeYear": "99.36%",
+    "uptimeWeek": "72.36%",
+    "uptimeMonth": "92.85%",
+    "uptimeYear": "99.35%",
     "time": 800,
     "timeDay": 1104,
     "timeWeek": 907,
-    "timeMonth": 872,
+    "timeMonth": 873,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2022-11-30": 1295,
+      "2022-12-01": 23,
+      "2022-11-30": 1351,
       "2022-11-29": 1412,
       "2022-11-12": 344,
       "2022-06-30": 149,
@@ -40,7 +41,7 @@
     "time": 866,
     "timeDay": 789,
     "timeWeek": 820,
-    "timeMonth": 1060,
+    "timeMonth": 1068,
     "timeYear": 875,
     "dailyMinutesDown": {
       "2022-06-14": 31,
@@ -108,7 +109,7 @@
     "time": 1101,
     "timeDay": 896,
     "timeWeek": 882,
-    "timeMonth": 1172,
+    "timeMonth": 1182,
     "timeYear": 1123,
     "dailyMinutesDown": {
       "2022-06-14": 31,
@@ -129,7 +130,7 @@
     "time": 1140,
     "timeDay": 1057,
     "timeWeek": 1045,
-    "timeMonth": 1096,
+    "timeMonth": 1095,
     "timeYear": 1144,
     "dailyMinutesDown": {
       "2022-09-28": 61,
@@ -151,7 +152,7 @@
     "time": 1278,
     "timeDay": 1230,
     "timeWeek": 1216,
-    "timeMonth": 1256,
+    "timeMonth": 1264,
     "timeYear": 1242,
     "dailyMinutesDown": {
       "2022-06-30": 149,
@@ -176,7 +177,7 @@
     "time": 1192,
     "timeDay": 1280,
     "timeWeek": 1259,
-    "timeMonth": 1230,
+    "timeMonth": 1232,
     "timeYear": 1189,
     "dailyMinutesDown": {
       "2022-06-30": 149,
@@ -223,7 +224,7 @@
     "time": 2824,
     "timeDay": 3402,
     "timeWeek": 2858,
-    "timeMonth": 2852,
+    "timeMonth": 2859,
     "timeYear": 2890,
     "dailyMinutesDown": {
       "2022-06-30": 149,
@@ -272,7 +273,7 @@
     "time": 603,
     "timeDay": 608,
     "timeWeek": 550,
-    "timeMonth": 564,
+    "timeMonth": 563,
     "timeYear": 595,
     "dailyMinutesDown": {
       "2022-10-10": 232,
@@ -345,7 +346,7 @@
     "time": 497,
     "timeDay": 497,
     "timeWeek": 554,
-    "timeMonth": 538,
+    "timeMonth": 539,
     "timeYear": 496,
     "dailyMinutesDown": {
       "2022-06-30": 148,
@@ -366,7 +367,7 @@
     "time": 1238,
     "timeDay": 999,
     "timeWeek": 894,
-    "timeMonth": 1498,
+    "timeMonth": 1514,
     "timeYear": 1297,
     "dailyMinutesDown": {
       "2022-11-10": 31
@@ -386,7 +387,7 @@
     "time": 333,
     "timeDay": 331,
     "timeWeek": 297,
-    "timeMonth": 326,
+    "timeMonth": 325,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2022-06-30": 148,
@@ -407,7 +408,7 @@
     "time": 585,
     "timeDay": 560,
     "timeWeek": 566,
-    "timeMonth": 593,
+    "timeMonth": 590,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2022-06-30": 148
@@ -448,7 +449,7 @@
     "time": 751,
     "timeDay": 742,
     "timeWeek": 706,
-    "timeMonth": 734,
+    "timeMonth": 733,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2022-09-13": 25,
@@ -462,18 +463,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.philosophie.ch.ico",
     "slug": "philosophie-ch",
     "status": "down",
-    "uptime": "98.40%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.00%",
+    "uptime": "98.39%",
+    "uptimeDay": "94.44%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "98.24%",
     "time": 2098,
     "timeDay": 972,
     "timeWeek": 1791,
-    "timeMonth": 2013,
+    "timeMonth": 2044,
     "timeYear": 2052,
     "dailyMinutesDown": {
-      "2022-11-30": 1,
+      "2022-12-01": 24,
+      "2022-11-30": 56,
       "2022-11-01": 379,
       "2022-10-31": 58,
       "2022-10-08": 25,
@@ -505,8 +507,7 @@
       "2022-02-01": 374,
       "2022-01-31": 58,
       "2021-12-31": 15,
-      "2021-12-06": 45,
-      "2021-12-01": 442
+      "2021-12-06": 45
     }
   },
   {
@@ -523,7 +524,7 @@
     "time": 361,
     "timeDay": 1493,
     "timeWeek": 660,
-    "timeMonth": 476,
+    "timeMonth": 482,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2022-11-04": 18,
@@ -547,7 +548,7 @@
     "time": 479,
     "timeDay": 6220,
     "timeWeek": 1674,
-    "timeMonth": 1486,
+    "timeMonth": 1500,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2022-11-04": 17,
@@ -570,7 +571,7 @@
     "time": 691,
     "timeDay": 829,
     "timeWeek": 708,
-    "timeMonth": 724,
+    "timeMonth": 723,
     "timeYear": 684,
     "dailyMinutesDown": {
       "2022-06-30": 148
@@ -590,7 +591,7 @@
     "time": 1091,
     "timeDay": 1203,
     "timeWeek": 976,
-    "timeMonth": 1001,
+    "timeMonth": 1005,
     "timeYear": 1055,
     "dailyMinutesDown": {
       "2022-08-10": 25,
@@ -631,7 +632,7 @@
     "time": 321,
     "timeDay": 320,
     "timeWeek": 300,
-    "timeMonth": 342,
+    "timeMonth": 343,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2022-06-30": 148
@@ -651,7 +652,7 @@
     "time": 863,
     "timeDay": 1082,
     "timeWeek": 1013,
-    "timeMonth": 1017,
+    "timeMonth": 1015,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2022-06-30": 148,
