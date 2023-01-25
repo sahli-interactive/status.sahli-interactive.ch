@@ -430,11 +430,11 @@
     "url": "https://mgnrecht.ch",
     "icon": "https://icons.duckduckgo.com/ip3/mgnrecht.ch.ico",
     "slug": "masina-gfeller-nyffenegger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 953,
     "timeDay": 972,
@@ -442,6 +442,7 @@
     "timeMonth": 906,
     "timeYear": 954,
     "dailyMinutesDown": {
+      "2023-01-25": 3,
       "2022-09-28": 60,
       "2022-06-14": 27
     }
@@ -601,9 +602,9 @@
     "slug": "sahli-app",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1092,
     "timeDay": 919,
@@ -611,7 +612,7 @@
     "timeMonth": 989,
     "timeYear": 1050,
     "dailyMinutesDown": {
-      "2023-01-25": 1,
+      "2023-01-25": 13,
       "2022-08-10": 25,
       "2022-04-14": 38
     }
