@@ -371,10 +371,10 @@
     "url": "https://www.insecor.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.insecor.ch.ico",
     "slug": "insecor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1350,
@@ -383,6 +383,7 @@
     "timeMonth": 1939,
     "timeYear": 1452,
     "dailyMinutesDown": {
+      "2023-02-04": 1,
       "2022-11-10": 31
     }
   },
@@ -664,7 +665,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ursign.ch.ico",
     "slug": "ur-sign",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
