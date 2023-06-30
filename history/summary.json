@@ -28,8 +28,7 @@
       "2022-12-01": 1380,
       "2022-11-30": 1351,
       "2022-11-29": 1412,
-      "2022-11-12": 344,
-      "2022-06-30": 149
+      "2022-11-12": 344
     }
   },
   {
@@ -70,8 +69,7 @@
     "timeMonth": 421,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2022-11-19": 47,
-      "2022-06-30": 149
+      "2022-11-19": 47
     }
   },
   {
@@ -90,9 +88,7 @@
     "timeWeek": 431,
     "timeMonth": 471,
     "timeYear": 447,
-    "dailyMinutesDown": {
-      "2022-06-30": 149
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Creativ Personal AG",
@@ -151,9 +147,7 @@
     "timeWeek": 1468,
     "timeMonth": 1267,
     "timeYear": 1203,
-    "dailyMinutesDown": {
-      "2022-06-30": 149
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FAIRMED Nepal",
@@ -171,9 +165,7 @@
     "timeWeek": 1828,
     "timeMonth": 1786,
     "timeYear": 1288,
-    "dailyMinutesDown": {
-      "2022-06-30": 149
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FAIRMED Schweiz",
@@ -190,15 +182,14 @@
     "timeDay": 300,
     "timeWeek": 333,
     "timeMonth": 323,
-    "timeYear": 717,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2023-03-12": 27,
       "2023-03-11": 9,
       "2022-12-12": 154,
       "2022-12-11": 1336,
       "2022-12-10": 503,
-      "2022-12-09": 114,
-      "2022-06-30": 149
+      "2022-12-09": 114
     }
   },
   {
@@ -217,9 +208,7 @@
     "timeWeek": 3564,
     "timeMonth": 3202,
     "timeYear": 2864,
-    "dailyMinutesDown": {
-      "2022-06-30": 149
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Forum Sumiswald",
@@ -240,8 +229,7 @@
     "dailyMinutesDown": {
       "2023-06-05": 40,
       "2023-06-04": 42,
-      "2023-06-01": 71,
-      "2022-06-30": 149
+      "2023-06-01": 71
     }
   },
   {
@@ -273,8 +261,7 @@
       "2022-10-10": 232,
       "2022-08-15": 867,
       "2022-08-14": 1440,
-      "2022-08-13": 945,
-      "2022-06-30": 148
+      "2022-08-13": 945
     }
   },
   {
@@ -293,9 +280,7 @@
     "timeWeek": 477,
     "timeMonth": 429,
     "timeYear": 366,
-    "dailyMinutesDown": {
-      "2022-06-30": 148
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hirter Bedachungen AG",
@@ -313,9 +298,7 @@
     "timeWeek": 383,
     "timeMonth": 298,
     "timeYear": 317,
-    "dailyMinutesDown": {
-      "2022-06-30": 148
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Huldi + Stucki AG",
@@ -333,9 +316,7 @@
     "timeWeek": 696,
     "timeMonth": 599,
     "timeYear": 537,
-    "dailyMinutesDown": {
-      "2022-06-30": 148
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Insecor",
@@ -374,9 +355,7 @@
     "timeWeek": 326,
     "timeMonth": 387,
     "timeYear": 334,
-    "dailyMinutesDown": {
-      "2022-06-30": 148
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Malerei Zimmermann",
@@ -394,9 +373,7 @@
     "timeWeek": 673,
     "timeMonth": 569,
     "timeYear": 568,
-    "dailyMinutesDown": {
-      "2022-06-30": 148
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Masina. Gfeller. Nyffenegger",
@@ -497,8 +474,7 @@
       "2022-08-07": 223,
       "2022-08-01": 402,
       "2022-07-31": 114,
-      "2022-07-01": 397,
-      "2022-06-30": 118
+      "2022-07-01": 397
     }
   },
   {
@@ -537,15 +513,14 @@
     "timeDay": 1301,
     "timeWeek": 965,
     "timeMonth": 956,
-    "timeYear": 1043,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2023-06-27": 63,
       "2023-03-30": 62,
       "2023-03-12": 17,
       "2022-12-08": 23,
       "2022-11-04": 17,
-      "2022-10-26": 16,
-      "2022-06-30": 148
+      "2022-10-26": 16
     }
   },
   {
@@ -563,10 +538,8 @@
     "timeDay": 773,
     "timeWeek": 815,
     "timeMonth": 720,
-    "timeYear": 698,
-    "dailyMinutesDown": {
-      "2022-06-30": 148
-    }
+    "timeYear": 697,
+    "dailyMinutesDown": {}
   },
   {
     "name": "sahli.app",
@@ -605,9 +578,7 @@
     "timeWeek": 299,
     "timeMonth": 262,
     "timeYear": 275,
-    "dailyMinutesDown": {
-      "2022-06-30": 148
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Traumbaum",
@@ -616,18 +587,18 @@
     "slug": "traumbaum",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.96%",
     "time": 339,
     "timeDay": 591,
     "timeWeek": 394,
     "timeMonth": 335,
-    "timeYear": 343,
+    "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-06-29": 1,
-      "2022-06-30": 148
+      "2023-06-30": 22,
+      "2023-06-29": 40
     }
   },
   {
@@ -646,8 +617,6 @@
     "timeWeek": 1548,
     "timeMonth": 1262,
     "timeYear": 1026,
-    "dailyMinutesDown": {
-      "2022-06-30": 148
-    }
+    "dailyMinutesDown": {}
   }
 ]
