@@ -1,7 +1,7 @@
 url: https://www.mt-schreinerei.ch
-status: up
-code: 200
-responseTime: 366
-lastUpdated: 2023-12-14T23:02:01.338Z
+status: down
+code: 409
+responseTime: 415
+lastUpdated: 2023-12-15T22:23:26.252Z
 startTime: 2021-08-18T09:47:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
