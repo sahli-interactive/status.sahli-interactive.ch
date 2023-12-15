@@ -4,18 +4,19 @@
     "url": "https://www.aparthotel-adelboden.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.aparthotel-adelboden.ch.ico",
     "slug": "apart-hotel-adelboden",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 821,
-    "timeDay": 680,
-    "timeWeek": 927,
-    "timeMonth": 883,
-    "timeYear": 818,
+    "time": 831,
+    "timeDay": 3071,
+    "timeWeek": 1494,
+    "timeMonth": 1031,
+    "timeYear": 830,
     "dailyMinutesDown": {
+      "2023-12-15": 1,
       "2023-05-23": 401,
       "2023-05-22": 397
     }
@@ -142,18 +143,16 @@
     "slug": "fairmed-nepal",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1447,
     "timeDay": 1029,
     "timeWeek": 1317,
     "timeMonth": 1774,
     "timeYear": 1529,
-    "dailyMinutesDown": {
-      "2023-12-15": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FAIRMED Schweiz",
@@ -162,9 +161,9 @@
     "slug": "fairmed-schweiz",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 547,
     "timeDay": 293,
@@ -172,7 +171,6 @@
     "timeMonth": 305,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2023-12-15": 8,
       "2023-11-12": 72,
       "2023-10-31": 66,
       "2023-10-10": 58,
@@ -283,18 +281,16 @@
     "slug": "hirter-bedachungen-ag",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 351,
     "timeDay": 326,
     "timeWeek": 314,
     "timeMonth": 393,
     "timeYear": 362,
-    "dailyMinutesDown": {
-      "2023-12-15": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Huldi + Stucki AG",
@@ -341,18 +337,20 @@
     "url": "https://www.mt-schreinerei.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.mt-schreinerei.ch.ico",
     "slug": "m-and-t-schreinerei-gmb-h",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 363,
-    "timeDay": 366,
-    "timeWeek": 390,
-    "timeMonth": 438,
+    "timeDay": 391,
+    "timeWeek": 393,
+    "timeMonth": 437,
     "timeYear": 374,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-15": 1
+    }
   },
   {
     "name": "Malerei Zimmermann",
