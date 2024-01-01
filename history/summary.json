@@ -414,9 +414,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.philosophie.ch.ico",
     "slug": "philosophie-ch",
     "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.37%",
+    "uptime": "97.65%",
+    "uptimeDay": "94.51%",
+    "uptimeWeek": "98.59%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "96.60%",
     "time": 2008,
@@ -425,7 +425,8 @@
     "timeMonth": 2225,
     "timeYear": 2022,
     "dailyMinutesDown": {
-      "2023-12-31": 1,
+      "2024-01-01": 22,
+      "2023-12-31": 58,
       "2023-12-27": 63,
       "2023-12-01": 443,
       "2023-11-30": 58,
@@ -469,8 +470,7 @@
       "2023-01-18": 17,
       "2023-01-10": 452,
       "2023-01-09": 152,
-      "2023-01-02": 449,
-      "2023-01-01": 1440
+      "2023-01-02": 449
     }
   },
   {
