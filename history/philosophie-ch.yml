@@ -1,7 +1,7 @@
 url: https://www.philosophie.ch
-status: up
-code: 200
-responseTime: 2279
-lastUpdated: 2024-02-06T23:02:29.388Z
+status: down
+code: 429
+responseTime: 788
+lastUpdated: 2024-02-07T10:49:34.086Z
 startTime: 2021-08-18T09:47:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
