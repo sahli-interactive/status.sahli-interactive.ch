@@ -487,11 +487,11 @@
     "url": "https://www.ruefenacht-elektro.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.ruefenacht-elektro.ch.ico",
     "slug": "ruefenacht-elektro-ag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
     "timeDay": 162,
@@ -499,7 +499,7 @@
     "timeMonth": 169,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-03-16": 8
+      "2024-03-16": 1
     }
   },
   {
