@@ -100,10 +100,10 @@
     "url": "https://www.etage-est.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.etage-est.ch.ico",
     "slug": "etage-est-gmb-h",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1134,
@@ -112,6 +112,7 @@
     "timeMonth": 1075,
     "timeYear": 1126,
     "dailyMinutesDown": {
+      "2024-03-31": 1,
       "2024-02-14": 63
     }
   },
