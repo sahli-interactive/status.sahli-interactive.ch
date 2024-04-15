@@ -359,9 +359,9 @@
     "slug": "malerei-zimmermann",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 587,
     "timeDay": 555,
@@ -369,7 +369,7 @@
     "timeMonth": 570,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2024-04-15": 1
+      "2024-04-15": 9
     }
   },
   {
@@ -415,18 +415,19 @@
     "url": "https://www.philosophie.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.philosophie.ch.ico",
     "slug": "philosophie-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "97.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "86.05%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "86.04%",
     "uptimeMonth": "96.75%",
     "uptimeYear": "96.54%",
-    "time": 2496,
+    "time": 2498,
     "timeDay": 5667,
     "timeWeek": 5785,
     "timeMonth": 5564,
     "timeYear": 2621,
     "dailyMinutesDown": {
+      "2024-04-15": 1,
       "2024-04-13": 45,
       "2024-04-12": 1361,
       "2024-03-26": 15,
