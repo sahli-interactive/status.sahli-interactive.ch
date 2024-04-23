@@ -81,10 +81,10 @@
     "url": "https://www.creativpersonal.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.creativpersonal.ch.ico",
     "slug": "creativ-personal-ag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1002,
@@ -92,7 +92,9 @@
     "timeWeek": 887,
     "timeMonth": 874,
     "timeYear": 957,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-23": 1
+    }
   },
   {
     "name": "Etage Est GmbH",
@@ -300,18 +302,16 @@
     "slug": "huldi-stucki-ag",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 632,
     "timeDay": 942,
     "timeWeek": 688,
     "timeMonth": 623,
     "timeYear": 660,
-    "dailyMinutesDown": {
-      "2024-04-23": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Insecor",
