@@ -349,10 +349,10 @@
     "url": "https://www.zimal.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.zimal.ch.ico",
     "slug": "malerei-zimmermann",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 602,
@@ -361,6 +361,7 @@
     "timeMonth": 647,
     "timeYear": 609,
     "dailyMinutesDown": {
+      "2024-06-05": 1,
       "2024-04-15": 62
     }
   },
