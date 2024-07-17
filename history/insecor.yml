@@ -1,7 +1,7 @@
 url: https://www.insecor.ch
-status: up
-code: 200
-responseTime: 1111
-lastUpdated: 2024-07-17T04:31:36.351Z
+status: down
+code: 500
+responseTime: 460
+lastUpdated: 2024-07-17T22:31:29.563Z
 startTime: 2021-08-18T09:47:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
