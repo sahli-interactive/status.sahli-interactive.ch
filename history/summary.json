@@ -135,19 +135,19 @@
     "url": "https://www.fairmed.org.np",
     "icon": "https://icons.duckduckgo.com/ip3/www.fairmed.org.np.ico",
     "slug": "fairmed-nepal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1546,
-    "timeDay": 1134,
-    "timeWeek": 1094,
-    "timeMonth": 1194,
-    "timeYear": 1544,
+    "timeDay": 1091,
+    "timeWeek": 1078,
+    "timeMonth": 1186,
+    "timeYear": 1542,
     "dailyMinutesDown": {
-      "2024-08-06": 0
+      "2024-08-06": 8
     }
   },
   {
@@ -577,7 +577,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.52%",
+    "uptimeYear": "91.53%",
     "time": 364,
     "timeDay": 499,
     "timeWeek": 458,
