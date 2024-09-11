@@ -469,18 +469,20 @@
     "url": "https://www.ruefenacht-elektro.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.ruefenacht-elektro.ch.ico",
     "slug": "ruefenacht-elektro-ag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 490,
-    "timeWeek": 233,
-    "timeMonth": 229,
+    "timeDay": 378,
+    "timeWeek": 238,
+    "timeMonth": 231,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-11": 1
+    }
   },
   {
     "name": "sahli:interactive",
