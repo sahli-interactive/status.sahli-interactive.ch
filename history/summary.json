@@ -265,10 +265,10 @@
     "url": "https://www.hirter.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.hirter.ch.ico",
     "slug": "hirter-bedachungen-ag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 360,
@@ -276,7 +276,9 @@
     "timeWeek": 308,
     "timeMonth": 339,
     "timeYear": 354,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-23": 1
+    }
   },
   {
     "name": "Huldi + Stucki AG",
@@ -413,12 +415,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "97.34%",
+    "uptimeYear": "97.35%",
     "time": 3613,
     "timeDay": 1442,
     "timeWeek": 1102,
     "timeMonth": 1137,
-    "timeYear": 4143,
+    "timeYear": 4154,
     "dailyMinutesDown": {
       "2024-09-16": 30,
       "2024-04-22": 15,
