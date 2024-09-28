@@ -117,18 +117,20 @@
     "url": "https://fairmed.cm",
     "icon": "https://icons.duckduckgo.com/ip3/fairmed.cm.ico",
     "slug": "fairmed-kamerun",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1250,
+    "time": 1251,
     "timeDay": 1113,
     "timeWeek": 1116,
     "timeMonth": 1125,
     "timeYear": 1211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-28": 1
+    }
   },
   {
     "name": "FAIRMED Nepal",
