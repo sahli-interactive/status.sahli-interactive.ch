@@ -4,19 +4,19 @@
     "url": "https://www.aparthotel-adelboden.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.aparthotel-adelboden.ch.ico",
     "slug": "apart-hotel-adelboden",
-    "status": "down",
+    "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1055,
-    "timeDay": 2211,
-    "timeWeek": 2153,
-    "timeMonth": 2249,
-    "timeYear": 1120,
+    "time": 1058,
+    "timeDay": 2095,
+    "timeWeek": 2132,
+    "timeMonth": 2240,
+    "timeYear": 1122,
     "dailyMinutesDown": {
-      "2024-10-07": 0
+      "2024-10-07": 10
     }
   },
   {
