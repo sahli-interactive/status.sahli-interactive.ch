@@ -96,10 +96,10 @@
     "url": "https://www.etage-est.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.etage-est.ch.ico",
     "slug": "etage-est-gmb-h",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1107,
@@ -108,6 +108,7 @@
     "timeMonth": 1054,
     "timeYear": 1099,
     "dailyMinutesDown": {
+      "2024-10-11": 1,
       "2024-03-31": 192,
       "2024-02-14": 63
     }
@@ -467,18 +468,16 @@
     "slug": "ruefenacht-elektro-ag",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
     "timeDay": 172,
     "timeWeek": 225,
     "timeMonth": 194,
     "timeYear": 220,
-    "dailyMinutesDown": {
-      "2024-10-11": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "sahli:interactive",
