@@ -42,19 +42,19 @@
     "url": "https://www.cerlettimmobilien.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.cerlettimmobilien.ch.ico",
     "slug": "cerletti-immobilien",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 371,
-    "timeDay": 309,
-    "timeWeek": 287,
-    "timeMonth": 299,
+    "timeDay": 258,
+    "timeWeek": 277,
+    "timeMonth": 296,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2024-10-15": 2
+      "2024-10-15": 7
     }
   },
   {
