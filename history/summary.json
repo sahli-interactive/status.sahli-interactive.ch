@@ -210,9 +210,9 @@
     "slug": "forum-sumiswald",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1149,
     "timeDay": 1252,
@@ -220,7 +220,6 @@
     "timeMonth": 1270,
     "timeYear": 1167,
     "dailyMinutesDown": {
-      "2024-11-04": 8,
       "2024-08-27": 26,
       "2024-06-20": 32
     }
