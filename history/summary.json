@@ -213,17 +213,17 @@
     "slug": "forum-sumiswald",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "92.60%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "96.55%",
+    "uptimeDay": "93.13%",
+    "uptimeWeek": "95.37%",
+    "uptimeMonth": "96.56%",
     "uptimeYear": "99.70%",
     "time": 1098,
     "timeDay": 932,
-    "timeWeek": 982,
+    "timeWeek": 985,
     "timeMonth": 1031,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2024-12-01": 68,
+      "2024-12-01": 60,
       "2024-11-30": 105,
       "2024-11-29": 64,
       "2024-11-28": 78,
@@ -603,10 +603,10 @@
     "url": "https://www.ursign.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.ursign.ch.ico",
     "slug": "ur-sign",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1458,
@@ -614,6 +614,8 @@
     "timeWeek": 1367,
     "timeMonth": 1304,
     "timeYear": 1467,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-01": 1
+    }
   }
 ]
