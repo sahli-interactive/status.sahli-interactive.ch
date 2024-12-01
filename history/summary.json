@@ -13,7 +13,7 @@
     "time": 1229,
     "timeDay": 2260,
     "timeWeek": 2227,
-    "timeMonth": 2313,
+    "timeMonth": 2324,
     "timeYear": 1333,
     "dailyMinutesDown": {
       "2024-11-18": 26,
@@ -34,7 +34,7 @@
     "time": 241,
     "timeDay": 92,
     "timeWeek": 157,
-    "timeMonth": 186,
+    "timeMonth": 184,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2024-01-17": 18
@@ -54,7 +54,7 @@
     "time": 367,
     "timeDay": 289,
     "timeWeek": 356,
-    "timeMonth": 359,
+    "timeMonth": 357,
     "timeYear": 345,
     "dailyMinutesDown": {}
   },
@@ -72,7 +72,7 @@
     "time": 472,
     "timeDay": 353,
     "timeWeek": 391,
-    "timeMonth": 413,
+    "timeMonth": 415,
     "timeYear": 458,
     "dailyMinutesDown": {}
   },
@@ -90,7 +90,7 @@
     "time": 897,
     "timeDay": 662,
     "timeWeek": 798,
-    "timeMonth": 867,
+    "timeMonth": 872,
     "timeYear": 861,
     "dailyMinutesDown": {}
   },
@@ -108,7 +108,7 @@
     "time": 1113,
     "timeDay": 1000,
     "timeWeek": 1407,
-    "timeMonth": 1221,
+    "timeMonth": 1230,
     "timeYear": 1118,
     "dailyMinutesDown": {
       "2024-11-13": 70,
@@ -130,7 +130,7 @@
     "time": 1235,
     "timeDay": 1534,
     "timeWeek": 1271,
-    "timeMonth": 1195,
+    "timeMonth": 1193,
     "timeYear": 1191,
     "dailyMinutesDown": {
       "2024-09-28": 28
@@ -150,7 +150,7 @@
     "time": 1504,
     "timeDay": 1342,
     "timeWeek": 1305,
-    "timeMonth": 1442,
+    "timeMonth": 1437,
     "timeYear": 1443,
     "dailyMinutesDown": {}
   },
@@ -168,7 +168,7 @@
     "time": 308,
     "timeDay": 136,
     "timeWeek": 178,
-    "timeMonth": 199,
+    "timeMonth": 198,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2024-01-17": 18
@@ -188,7 +188,7 @@
     "time": 2851,
     "timeDay": 2630,
     "timeWeek": 2684,
-    "timeMonth": 2706,
+    "timeMonth": 2707,
     "timeYear": 2818,
     "dailyMinutesDown": {
       "2024-02-14": 281,
@@ -212,10 +212,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.forum-sumiswald.ch.ico",
     "slug": "forum-sumiswald",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "91.38%",
-    "uptimeWeek": "95.70%",
-    "uptimeMonth": "96.68%",
+    "uptime": "99.89%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "95.79%",
+    "uptimeMonth": "96.70%",
     "uptimeYear": "99.71%",
     "time": 1098,
     "timeDay": 900,
@@ -223,7 +223,7 @@
     "timeMonth": 1032,
     "timeYear": 1096,
     "dailyMinutesDown": {
-      "2024-11-30": 114,
+      "2024-11-30": 105,
       "2024-11-29": 64,
       "2024-11-28": 78,
       "2024-11-27": 51,
@@ -266,7 +266,7 @@
     "time": 507,
     "timeDay": 720,
     "timeWeek": 497,
-    "timeMonth": 497,
+    "timeMonth": 503,
     "timeYear": 492,
     "dailyMinutesDown": {}
   },
@@ -284,7 +284,7 @@
     "time": 438,
     "timeDay": 391,
     "timeWeek": 428,
-    "timeMonth": 460,
+    "timeMonth": 465,
     "timeYear": 432,
     "dailyMinutesDown": {}
   },
@@ -302,7 +302,7 @@
     "time": 393,
     "timeDay": 324,
     "timeWeek": 490,
-    "timeMonth": 547,
+    "timeMonth": 549,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2024-11-20": 26,
@@ -325,7 +325,7 @@
     "time": 707,
     "timeDay": 571,
     "timeWeek": 656,
-    "timeMonth": 615,
+    "timeMonth": 623,
     "timeYear": 706,
     "dailyMinutesDown": {}
   },
@@ -343,7 +343,7 @@
     "time": 907,
     "timeDay": 623,
     "timeWeek": 775,
-    "timeMonth": 857,
+    "timeMonth": 859,
     "timeYear": 912,
     "dailyMinutesDown": {
       "2024-10-29": 204,
@@ -372,7 +372,7 @@
     "time": 393,
     "timeDay": 610,
     "timeWeek": 466,
-    "timeMonth": 443,
+    "timeMonth": 447,
     "timeYear": 387,
     "dailyMinutesDown": {}
   },
@@ -390,7 +390,7 @@
     "time": 764,
     "timeDay": 427,
     "timeWeek": 569,
-    "timeMonth": 644,
+    "timeMonth": 646,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2024-08-17": 25,
@@ -413,7 +413,7 @@
     "time": 954,
     "timeDay": 774,
     "timeWeek": 973,
-    "timeMonth": 1161,
+    "timeMonth": 1165,
     "timeYear": 950,
     "dailyMinutesDown": {
       "2024-11-27": 17,
@@ -434,7 +434,7 @@
     "time": 771,
     "timeDay": 590,
     "timeWeek": 790,
-    "timeMonth": 823,
+    "timeMonth": 828,
     "timeYear": 766,
     "dailyMinutesDown": {}
   },
@@ -448,7 +448,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.90%",
     "time": 3782,
     "timeDay": 1032,
     "timeWeek": 1093,
@@ -499,7 +499,7 @@
     "time": 226,
     "timeDay": 103,
     "timeWeek": 178,
-    "timeMonth": 209,
+    "timeMonth": 210,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -517,7 +517,7 @@
     "time": 831,
     "timeDay": 578,
     "timeWeek": 612,
-    "timeMonth": 829,
+    "timeMonth": 839,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2024-01-17": 18
@@ -537,7 +537,7 @@
     "time": 509,
     "timeDay": 105,
     "timeWeek": 183,
-    "timeMonth": 180,
+    "timeMonth": 182,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2024-08-02": 61
@@ -557,7 +557,7 @@
     "time": 993,
     "timeDay": 995,
     "timeWeek": 996,
-    "timeMonth": 1046,
+    "timeMonth": 1049,
     "timeYear": 993,
     "dailyMinutesDown": {}
   },
@@ -575,7 +575,7 @@
     "time": 317,
     "timeDay": 330,
     "timeWeek": 284,
-    "timeMonth": 331,
+    "timeMonth": 333,
     "timeYear": 303,
     "dailyMinutesDown": {}
   },
@@ -593,7 +593,7 @@
     "time": 363,
     "timeDay": 275,
     "timeWeek": 346,
-    "timeMonth": 393,
+    "timeMonth": 396,
     "timeYear": 355,
     "dailyMinutesDown": {}
   },
@@ -611,7 +611,7 @@
     "time": 1458,
     "timeDay": 1729,
     "timeWeek": 1367,
-    "timeMonth": 1298,
+    "timeMonth": 1304,
     "timeYear": 1467,
     "dailyMinutesDown": {}
   }
