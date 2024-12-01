@@ -603,19 +603,19 @@
     "url": "https://www.ursign.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.ursign.ch.ico",
     "slug": "ur-sign",
-    "status": "down",
+    "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1458,
-    "timeDay": 1729,
-    "timeWeek": 1367,
-    "timeMonth": 1304,
-    "timeYear": 1467,
+    "time": 1459,
+    "timeDay": 1760,
+    "timeWeek": 1420,
+    "timeMonth": 1320,
+    "timeYear": 1468,
     "dailyMinutesDown": {
-      "2024-12-01": 1
+      "2024-12-01": 15
     }
   }
 ]
