@@ -211,11 +211,11 @@
     "url": "https://www.forum-sumiswald.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.forum-sumiswald.ch.ico",
     "slug": "forum-sumiswald",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "60.72%",
-    "uptimeWeek": "74.56%",
-    "uptimeMonth": "92.84%",
+    "uptimeDay": "61.83%",
+    "uptimeWeek": "74.63%",
+    "uptimeMonth": "92.85%",
     "uptimeYear": "99.40%",
     "time": 1088,
     "timeDay": 1021,
@@ -223,7 +223,7 @@
     "timeMonth": 1030,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2024-12-06": 533,
+      "2024-12-06": 526,
       "2024-12-05": 548,
       "2024-12-04": 579,
       "2024-12-03": 446,
@@ -508,7 +508,7 @@
     "time": 829,
     "timeDay": 975,
     "timeWeek": 766,
-    "timeMonth": 877,
+    "timeMonth": 892,
     "timeYear": 786,
     "dailyMinutesDown": {
       "2024-01-17": 18
@@ -528,7 +528,7 @@
     "time": 507,
     "timeDay": 382,
     "timeWeek": 345,
-    "timeMonth": 220,
+    "timeMonth": 224,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2024-08-02": 61
@@ -548,8 +548,8 @@
     "time": 996,
     "timeDay": 1665,
     "timeWeek": 1092,
-    "timeMonth": 1031,
-    "timeYear": 997,
+    "timeMonth": 1044,
+    "timeYear": 998,
     "dailyMinutesDown": {}
   },
   {
@@ -566,7 +566,7 @@
     "time": 317,
     "timeDay": 314,
     "timeWeek": 296,
-    "timeMonth": 321,
+    "timeMonth": 326,
     "timeYear": 303,
     "dailyMinutesDown": {}
   },
@@ -584,7 +584,7 @@
     "time": 363,
     "timeDay": 517,
     "timeWeek": 432,
-    "timeMonth": 398,
+    "timeMonth": 401,
     "timeYear": 356,
     "dailyMinutesDown": {}
   },
@@ -602,7 +602,7 @@
     "time": 1461,
     "timeDay": 1347,
     "timeWeek": 1542,
-    "timeMonth": 1351,
+    "timeMonth": 1362,
     "timeYear": 1470,
     "dailyMinutesDown": {
       "2024-12-01": 15
