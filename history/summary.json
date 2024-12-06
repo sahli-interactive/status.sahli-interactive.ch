@@ -213,17 +213,17 @@
     "slug": "forum-sumiswald",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "61.06%",
-    "uptimeWeek": "79.24%",
-    "uptimeMonth": "93.37%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "63.74%",
+    "uptimeWeek": "79.32%",
+    "uptimeMonth": "93.34%",
+    "uptimeYear": "99.44%",
     "time": 1093,
     "timeDay": 1141,
     "timeWeek": 1029,
     "timeMonth": 1035,
     "timeYear": 1088,
     "dailyMinutesDown": {
-      "2024-12-05": 556,
+      "2024-12-05": 548,
       "2024-12-04": 579,
       "2024-12-03": 446,
       "2024-12-02": 281,
@@ -245,7 +245,7 @@
       "2024-11-16": 33,
       "2024-11-15": 53,
       "2024-11-14": 55,
-      "2024-11-13": 34
+      "2024-11-13": 58
     }
   },
   {
