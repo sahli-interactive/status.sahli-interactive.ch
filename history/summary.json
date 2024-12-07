@@ -211,11 +211,11 @@
     "url": "https://www.forum-sumiswald.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.forum-sumiswald.ch.ico",
     "slug": "forum-sumiswald",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "64.46%",
-    "uptimeWeek": "71.34%",
-    "uptimeMonth": "92.64%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "65.04%",
+    "uptimeWeek": "71.33%",
+    "uptimeMonth": "92.69%",
     "uptimeYear": "99.39%",
     "time": 1089,
     "timeDay": 973,
@@ -234,7 +234,7 @@
       "2024-11-29": 64,
       "2024-11-28": 78,
       "2024-11-27": 51,
-      "2024-11-26": 61
+      "2024-11-26": 39
     }
   },
   {
