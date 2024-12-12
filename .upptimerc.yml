@@ -3,65 +3,107 @@ owner: sahli-interactive # Your GitHub organization or username, where this repo
 repo: status.sahli-interactive.ch # The name of this repository
 
 sites:
-  - name: "Apart Hotel Adelboden"
-    url: https://www.aparthotel-adelboden.ch
   - name: "Cardinal Coolbox Promotion"
     url: https://win.cardinal.ch
+    assignees:
+      - m43nu
   - name: "Cerletti Immobilien"
     url: https://www.cerlettimmobilien.ch
+    assignees:
+      - m43nu
   - name: "Christen Gartenbau AG"
     url: https://www.christen-gartenbau.ch
+    assignees:
+      - m43nu
   - name: "Creativ Personal AG"
     url: https://www.creativpersonal.ch
+    assignees:
+      - m43nu
   - name: "Etage Est GmbH"
     url: https://www.etage-est.ch
+    assignees:
+      - m43nu
   - name: "FAIRMED Kamerun"
     url: https://fairmed.cm
+    assignees:
+      - m43nu
   - name: "FAIRMED Nepal"
     url: https://www.fairmed.org.np
+    assignees:
+      - m43nu
   - name: "FAIRMED Schweiz"
     url: https://www.fairmed.ch
+    assignees:
+      - peperoli
   - name: "FAIRMED Sri Lanka"
     url: http://fairmedsrilanka.org
-  - name: "Forum Sumiswald"
-    url: https://www.forum-sumiswald.ch
+    assignees:
+      - m43nu
   - name: "Glas-Werkstatt Kräuchi"
     url: https://www.kraeuchi.ch
+    assignees:
+      - m43nu
   - name: "Goju Kan Bern AG"
     url: https://www.gojukan.ch
-  - name: "Hirter Bedachungen AG"
-    url: https://www.hirter.ch
+    assignees:
+      - m43nu
   - name: "Huldi + Stucki AG"
     url: https://www.huldi-stucki.ch
+    assignees:
+      - m43nu
   - name: "Insecor"
     url: https://www.insecor.ch
+    assignees:
+      - m43nu
   - name: "M & T Schreinerei GmbH"
     url: https://www.mt-schreinerei.ch
+    assignees:
+      - m43nu
   - name: "Malerei Zimmermann"
     url: https://www.zimal.ch
+    assignees:
+      - peperoli
   - name: "Masina. Gfeller. Nyffenegger"
     url: https://mgnrecht.ch
+    assignees:
+      - m43nu
   - name: "Notariat Haas"
     url: https://www.notariat-haas.ch
+    assignees:
+      - peperoli
   - name: "Philosophie.ch"
     url: https://www.philosophie.ch
+    assignees:
+      - m43nu
   - name: "Rüfenacht Elektro AG"
     url: https://www.ruefenacht-elektro.ch
+    assignees:
+      - peperoli
   - name: "sahli:interactive"
     url: https://sahli-interactive.ch
+    assignees:
+      - peperoli
   - name: "SahliBeschriftung"
     url: https://www.sahlibeschriftung.ch
+    assignees:
+      - peperoli
   - name: "sahli.app"
     url: https://sahli.app
+    assignees:
+      - m43nu
+      - peperoli
   - name: "Sport Amstutz"
     url: https://www.sport-amstutz.ch
+    assignees:
+      - m43nu
   - name: "Traumbaum"
     url: https://traumbaum.ch
+    assignees:
+      - m43nu
   - name: "urSIGN"
     url: https://www.ursign.ch
-    
-assignees:
-  - m43nu
+    assignees:
+      - m43nu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
