@@ -3,6 +3,18 @@ owner: sahli-interactive # Your GitHub organization or username, where this repo
 repo: status.sahli-interactive.ch # The name of this repository
 
 sites:
+  - name: "Aare Bier Strom-Dashboard"
+    url: https://aarebier.gerberenergietechnik.ch
+    assignees:
+      - m43nu
+  - name: "Autoverkehr Group"
+    url: https://www.autoverkehr.ch
+    assignees:
+      - peperoli
+  - name: "Disegnato"
+    url: https://www.disegnato.ch
+    assignees:
+      - peperoli
   - name: "Cardinal Coolbox Promotion"
     url: https://win.cardinal.ch
     assignees:
@@ -23,6 +35,10 @@ sites:
     url: https://www.etage-est.ch
     assignees:
       - m43nu
+  - name: "FAIRMED Schweiz"
+    url: https://www.fairmed.ch
+    assignees:
+      - peperoli
   - name: "FAIRMED Kamerun"
     url: https://fairmed.cm
     assignees:
@@ -31,12 +47,16 @@ sites:
     url: https://www.fairmed.org.np
     assignees:
       - m43nu
-  - name: "FAIRMED Schweiz"
-    url: https://www.fairmed.ch
+  - name: "FAIRMED Sri Lanka"
+    url: https://fairmedsrilanka.org
+    assignees:
+      - m43nu
+  - name: "Farbwerk Herren"
+    url: https://www.farbwerkag.ch
     assignees:
       - peperoli
-  - name: "FAIRMED Sri Lanka"
-    url: http://fairmedsrilanka.org
+  - name: "Farbwerk Herren Online-Shop"
+    url: https://shop.farbwerkag.ch
     assignees:
       - m43nu
   - name: "Glas-Werkstatt Kräuchi"
@@ -47,6 +67,14 @@ sites:
     url: https://www.gojukan.ch
     assignees:
       - m43nu
+  - name: "Heidadorf Visperterminen"
+    url: https://www.heidadorf.ch
+    assignees:
+      - m43nu
+  - name: "Hilscher Swiss"
+    url: https://www.hilscher.ch
+    assignees:
+      - m43nu
   - name: "Huldi + Stucki AG"
     url: https://www.huldi-stucki.ch
     assignees:
@@ -55,6 +83,10 @@ sites:
     url: https://www.insecor.ch
     assignees:
       - m43nu
+  - name: "Koor Baumanagement"
+    url: https://www.koor-baumanagement.ch
+    assignees:
+      - peperoli
   - name: "M & T Schreinerei GmbH"
     url: https://www.mt-schreinerei.ch
     assignees:
@@ -67,14 +99,26 @@ sites:
     url: https://mgnrecht.ch
     assignees:
       - m43nu
+  - name: "MLS Architekten"
+    url: https://www.mls-architekten.ch
+    assignees:
+      - m43nu
   - name: "Notariat Haas"
     url: https://www.notariat-haas.ch
+    assignees:
+      - peperoli
+  - name: "Nuwa"
+    url: https://www.nuwa.swiss
     assignees:
       - peperoli
   - name: "Philosophie.ch"
     url: https://www.philosophie.ch
     assignees:
       - m43nu
+  - name: "Rudolf Obrecht AG"
+    url: https://www.rudolfobrecht.com
+    assignees:
+      - peperoli
   - name: "Rüfenacht Elektro AG"
     url: https://www.ruefenacht-elektro.ch
     assignees:
@@ -92,16 +136,40 @@ sites:
     assignees:
       - m43nu
       - peperoli
+  - name: "Salzmann Uhren & Bijouterie"
+    url: https://www.zeitfuersalzmann.ch
+    assignees:
+      - peperoli
+  - name: "Siloah Energie-Dashboard"
+    url: https://zevsiloahsued.gerberenergietechnik.ch
+    assignees:
+      - m43nu
   - name: "Sport Amstutz"
     url: https://www.sport-amstutz.ch
     assignees:
       - m43nu
+  - name: "TECTON"
+    url: https://www.tecton.ch
+    assignees:
+      - m43nu
+  - name: "tubus GmbH"
+    url: https://tubusgmbh.ch
+    assignees:
+      - peperoli
   - name: "Traumbaum"
     url: https://traumbaum.ch
     assignees:
       - m43nu
   - name: "urSIGN"
     url: https://www.ursign.ch
+    assignees:
+      - m43nu
+  - name: "Ziegelhüsi"
+    url: https://www.ziegelhuesi.ch
+    assignees:
+      - peperoli
+  - name: "Zwahlen & Wieser Energie-Dashboard"
+    url: https://zwahlen-wieser.gerberenergietechnik.ch
     assignees:
       - m43nu
 
