@@ -7,6 +7,10 @@ sites:
     url: https://aarebier.gerberenergietechnik.ch
     assignees:
       - m43nu
+  - name: "ARAMIS SAR Service"
+    url: https://datenausgabe.aramis.admin.ch
+    assignees:
+      - m43nu
   - name: "Autoverkehr Group"
     url: https://www.autoverkehr.ch
     assignees:
@@ -31,10 +35,18 @@ sites:
     url: https://www.creativpersonal.ch
     assignees:
       - m43nu
+  - name: "Die Talentschule"
+    url: https://www.die-talentschule.ch
+    assignees:
+      - peperoli
   - name: "Etage Est GmbH"
     url: https://www.etage-est.ch
     assignees:
       - m43nu
+  - name: "F.G. Pfister"
+    url: https://www.fgpfister.ch
+    assignees:
+      - peperoli
   - name: "FAIRMED Schweiz"
     url: https://www.fairmed.ch
     assignees:
@@ -59,12 +71,24 @@ sites:
     url: https://shop.farbwerkag.ch
     assignees:
       - m43nu
+  - name: "FTEM Karate"
+    url: https://www.ftem-karate.ch
+    assignees:
+      - m43nu
+  - name: "Germann Treuhand"
+    url: https://www.germann-treuhand.ch
+    assignees:
+      - peperoli
   - name: "Glas-Werkstatt Kräuchi"
     url: https://www.kraeuchi.ch
     assignees:
       - m43nu
   - name: "Goju Kan Bern AG"
     url: https://www.gojukan.ch
+    assignees:
+      - m43nu
+  - name: "Haus des Sports"
+    url: https://www.hausdessports.ch
     assignees:
       - m43nu
   - name: "Heidadorf Visperterminen"
@@ -75,10 +99,18 @@ sites:
     url: https://www.hilscher.ch
     assignees:
       - m43nu
+  - name: "Hofmatt Uettligen"
+    url: https://www.hofmattuettligen.ch
+    assignees:
+      - peperoli
   - name: "Huldi + Stucki AG"
     url: https://www.huldi-stucki.ch
     assignees:
       - m43nu
+  - name: "Initiative Schweiz"
+    url: https://www.initiative-schweiz.org
+    assignees:
+      - peperoli
   - name: "Insecor"
     url: https://www.insecor.ch
     assignees:
@@ -115,6 +147,10 @@ sites:
     url: https://www.philosophie.ch
     assignees:
       - m43nu
+  - name: "René Otter Architekten GmbH"
+    url: https://reneotter.ch
+    assignees:
+      - m43nu
   - name: "Rudolf Obrecht AG"
     url: https://www.rudolfobrecht.com
     assignees:
@@ -140,10 +176,18 @@ sites:
     url: https://www.zeitfuersalzmann.ch
     assignees:
       - peperoli
+  - name: "Schnyder Werbung"
+    url: https://schnyder-werbung.ch
+    assignees:
+      - m43nu
   - name: "Siloah Energie-Dashboard"
     url: https://zevsiloahsued.gerberenergietechnik.ch
     assignees:
       - m43nu
+  - name: "Sorglos Design"
+    url: https://www.sorglos-design.ch/
+    assignees:
+      - peperoli
   - name: "Sport Amstutz"
     url: https://www.sport-amstutz.ch
     assignees:
