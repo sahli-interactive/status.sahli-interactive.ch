@@ -426,19 +426,19 @@
     "url": "https://www.heidadorf.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.heidadorf.ch.ico",
     "slug": "heidadorf-visperterminen",
-    "status": "down",
-    "uptime": "98.69%",
-    "uptimeDay": "94.82%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.69%",
-    "time": 928,
-    "timeDay": 2702,
-    "timeWeek": 928,
-    "timeMonth": 928,
-    "timeYear": 928,
+    "status": "up",
+    "uptime": "98.58%",
+    "uptimeDay": "94.37%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.58%",
+    "time": 1448,
+    "timeDay": 3496,
+    "timeWeek": 1448,
+    "timeMonth": 1448,
+    "timeYear": 1448,
     "dailyMinutesDown": {
-      "2024-12-16": 75
+      "2024-12-16": 81
     }
   },
   {
@@ -860,19 +860,19 @@
     "url": "https://schnyder-werbung.ch",
     "icon": "https://icons.duckduckgo.com/ip3/schnyder-werbung.ch.ico",
     "slug": "schnyder-werbung",
-    "status": "down",
-    "uptime": "98.20%",
-    "uptimeDay": "93.21%",
-    "uptimeWeek": "98.20%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "98.20%",
-    "time": 1240,
-    "timeDay": 1620,
-    "timeWeek": 1240,
-    "timeMonth": 1240,
-    "timeYear": 1240,
+    "status": "up",
+    "uptime": "98.06%",
+    "uptimeDay": "92.69%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "98.06%",
+    "uptimeYear": "98.06%",
+    "time": 1777,
+    "timeDay": 2747,
+    "timeWeek": 1777,
+    "timeMonth": 1777,
+    "timeYear": 1777,
     "dailyMinutesDown": {
-      "2024-12-16": 98
+      "2024-12-16": 106
     }
   },
   {
