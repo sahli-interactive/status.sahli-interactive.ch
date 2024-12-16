@@ -627,19 +627,19 @@
     "url": "https://www.mls-architekten.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.mls-architekten.ch.ico",
     "slug": "mls-architekten",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 897,
-    "timeDay": 2639,
-    "timeWeek": 897,
-    "timeMonth": 897,
-    "timeYear": 897,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 1420,
+    "timeDay": 3450,
+    "timeWeek": 1420,
+    "timeMonth": 1420,
+    "timeYear": 1420,
     "dailyMinutesDown": {
-      "2024-12-16": 1
+      "2024-12-16": 15
     }
   },
   {
@@ -860,19 +860,19 @@
     "url": "https://schnyder-werbung.ch",
     "icon": "https://icons.duckduckgo.com/ip3/schnyder-werbung.ch.ico",
     "slug": "schnyder-werbung",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
-    "time": 1028,
-    "timeDay": 936,
-    "timeWeek": 1028,
-    "timeMonth": 1028,
-    "timeYear": 1028,
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "96.98%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
+    "time": 1240,
+    "timeDay": 1620,
+    "timeWeek": 1240,
+    "timeMonth": 1240,
+    "timeYear": 1240,
     "dailyMinutesDown": {
-      "2024-12-16": 29
+      "2024-12-16": 44
     }
   },
   {
