@@ -58,19 +58,19 @@
     "url": "https://www.disegnato.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.disegnato.ch.ico",
     "slug": "disegnato",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "95.88%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "98.99%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "95.72%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
     "time": 1451,
     "timeDay": 2464,
     "timeWeek": 1451,
     "timeMonth": 1451,
     "timeYear": 1451,
     "dailyMinutesDown": {
-      "2024-12-16": 59
+      "2024-12-16": 61
     }
   },
   {
@@ -426,9 +426,9 @@
     "url": "https://www.heidadorf.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.heidadorf.ch.ico",
     "slug": "heidadorf-visperterminen",
-    "status": "up",
+    "status": "down",
     "uptime": "98.62%",
-    "uptimeDay": "94.37%",
+    "uptimeDay": "94.25%",
     "uptimeWeek": "98.62%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "98.62%",
@@ -438,7 +438,7 @@
     "timeMonth": 1448,
     "timeYear": 1448,
     "dailyMinutesDown": {
-      "2024-12-16": 81
+      "2024-12-16": 83
     }
   },
   {
@@ -627,19 +627,19 @@
     "url": "https://www.mls-architekten.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.mls-architekten.ch.ico",
     "slug": "mls-architekten",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "94.73%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "98.71%",
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "94.64%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "98.72%",
     "time": 2110,
     "timeDay": 4020,
     "timeWeek": 2110,
     "timeMonth": 2110,
     "timeYear": 2110,
     "dailyMinutesDown": {
-      "2024-12-16": 75
+      "2024-12-16": 76
     }
   },
   {
@@ -860,19 +860,19 @@
     "url": "https://schnyder-werbung.ch",
     "icon": "https://icons.duckduckgo.com/ip3/schnyder-werbung.ch.ico",
     "slug": "schnyder-werbung",
-    "status": "up",
-    "uptime": "97.65%",
-    "uptimeDay": "90.88%",
-    "uptimeWeek": "97.65%",
-    "uptimeMonth": "97.65%",
-    "uptimeYear": "97.65%",
+    "status": "down",
+    "uptime": "97.70%",
+    "uptimeDay": "90.81%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.70%",
     "time": 2210,
     "timeDay": 3370,
     "timeWeek": 2210,
     "timeMonth": 2210,
     "timeYear": 2210,
     "dailyMinutesDown": {
-      "2024-12-16": 132
+      "2024-12-16": 133
     }
   },
   {
