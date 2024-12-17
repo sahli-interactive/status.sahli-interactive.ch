@@ -59,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.disegnato.ch.ico",
     "slug": "disegnato",
     "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "93.70%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "98.63%",
+    "uptime": "97.44%",
+    "uptimeDay": "88.09%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "97.44%",
+    "uptimeYear": "97.44%",
     "time": 1756,
     "timeDay": 3642,
     "timeWeek": 1756,
     "timeMonth": 1756,
     "timeYear": 1756,
     "dailyMinutesDown": {
-      "2024-12-16": 90
+      "2024-12-17": 26,
+      "2024-12-16": 145
     }
   },
   {
@@ -427,18 +428,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heidadorf.ch.ico",
     "slug": "heidadorf-visperterminen",
     "status": "down",
-    "uptime": "98.75%",
-    "uptimeDay": "94.24%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.75%",
+    "uptime": "97.56%",
+    "uptimeDay": "88.63%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "97.56%",
+    "uptimeYear": "97.56%",
     "time": 2172,
     "timeDay": 5076,
     "timeWeek": 2172,
     "timeMonth": 2172,
     "timeYear": 2172,
     "dailyMinutesDown": {
-      "2024-12-16": 83
+      "2024-12-17": 26,
+      "2024-12-16": 138
     }
   },
   {
@@ -628,18 +630,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mls-architekten.ch.ico",
     "slug": "mls-architekten",
     "status": "down",
-    "uptime": "98.41%",
-    "uptimeDay": "92.69%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "98.41%",
-    "uptimeYear": "98.41%",
+    "uptime": "97.22%",
+    "uptimeDay": "87.07%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "97.22%",
+    "uptimeYear": "97.22%",
     "time": 2380,
     "timeDay": 4995,
     "timeWeek": 2380,
     "timeMonth": 2380,
     "timeYear": 2380,
     "dailyMinutesDown": {
-      "2024-12-16": 104
+      "2024-12-17": 26,
+      "2024-12-16": 159
     }
   },
   {
@@ -861,18 +864,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/schnyder-werbung.ch.ico",
     "slug": "schnyder-werbung",
     "status": "down",
-    "uptime": "97.48%",
-    "uptimeDay": "88.89%",
-    "uptimeWeek": "97.48%",
-    "uptimeMonth": "97.48%",
-    "uptimeYear": "97.48%",
+    "uptime": "96.25%",
+    "uptimeDay": "83.27%",
+    "uptimeWeek": "96.25%",
+    "uptimeMonth": "96.25%",
+    "uptimeYear": "96.25%",
     "time": 2391,
     "timeDay": 3527,
     "timeWeek": 2391,
     "timeMonth": 2391,
     "timeYear": 2391,
     "dailyMinutesDown": {
-      "2024-12-16": 161
+      "2024-12-17": 27,
+      "2024-12-16": 215
     }
   },
   {
@@ -971,7 +975,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/traumbaum.ch.ico",
     "slug": "traumbaum",
     "status": "up",
-    "uptime": "94.37%",
+    "uptime": "94.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
