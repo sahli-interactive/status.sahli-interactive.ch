@@ -320,19 +320,19 @@
     "url": "https://shop.farbwerkag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/shop.farbwerkag.ch.ico",
     "slug": "farbwerk-herren-online-shop",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 754,
-    "timeDay": 725,
-    "timeWeek": 680,
-    "timeMonth": 734,
-    "timeYear": 754,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 746,
+    "timeDay": 620,
+    "timeWeek": 650,
+    "timeMonth": 724,
+    "timeYear": 746,
     "dailyMinutesDown": {
-      "2025-01-20": 1
+      "2025-01-20": 8
     }
   },
   {
