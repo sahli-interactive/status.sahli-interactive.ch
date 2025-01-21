@@ -933,19 +933,19 @@
     "url": "https://www.tecton.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.tecton.ch.ico",
     "slug": "tecton",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 922,
-    "timeDay": 627,
-    "timeWeek": 845,
-    "timeMonth": 906,
-    "timeYear": 922,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 927,
+    "timeDay": 797,
+    "timeWeek": 877,
+    "timeMonth": 913,
+    "timeYear": 927,
     "dailyMinutesDown": {
-      "2025-01-21": 1
+      "2025-01-21": 18
     }
   },
   {
