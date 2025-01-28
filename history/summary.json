@@ -117,19 +117,19 @@
     "url": "https://www.christen-gartenbau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.christen-gartenbau.ch.ico",
     "slug": "christen-gartenbau-ag",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 460,
-    "timeDay": 413,
-    "timeWeek": 391,
-    "timeMonth": 375,
-    "timeYear": 451,
+    "time": 466,
+    "timeDay": 1639,
+    "timeWeek": 700,
+    "timeMonth": 453,
+    "timeYear": 457,
     "dailyMinutesDown": {
-      "2025-01-28": 4
+      "2025-01-28": 10
     }
   },
   {
