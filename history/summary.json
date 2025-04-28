@@ -322,7 +322,7 @@
     "timeMonth": 827,
     "timeYear": 900,
     "dailyMinutesDown": {
-      "2025-04-28": 1419,
+      "2025-04-28": 1426,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -461,18 +461,16 @@
     "slug": "goju-kan-bern-ag",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 429,
     "timeDay": 296,
     "timeWeek": 354,
     "timeMonth": 374,
     "timeYear": 438,
-    "dailyMinutesDown": {
-      "2025-04-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Haus des Sports",
@@ -973,18 +971,20 @@
     "url": "https://www.sport-amstutz.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.sport-amstutz.ch.ico",
     "slug": "sport-amstutz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 403,
-    "timeWeek": 313,
-    "timeMonth": 315,
-    "timeYear": 304,
-    "dailyMinutesDown": {}
+    "timeDay": 238,
+    "timeWeek": 283,
+    "timeMonth": 307,
+    "timeYear": 303,
+    "dailyMinutesDown": {
+      "2025-04-28": 1
+    }
   },
   {
     "name": "TECTON",
