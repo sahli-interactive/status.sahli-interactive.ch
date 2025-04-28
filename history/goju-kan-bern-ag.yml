@@ -1,7 +1,7 @@
 url: https://www.gojukan.ch
-status: up
-code: 200
-responseTime: 372
-lastUpdated: 2025-04-28T23:02:33.925Z
+status: down
+code: 500
+responseTime: 83
+lastUpdated: 2025-04-28T23:28:20.452Z
 startTime: 2021-08-18T09:47:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
