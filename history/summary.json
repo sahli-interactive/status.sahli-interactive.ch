@@ -322,7 +322,8 @@
     "timeMonth": 827,
     "timeYear": 900,
     "dailyMinutesDown": {
-      "2025-04-28": 1434,
+      "2025-04-29": 27,
+      "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -973,18 +974,16 @@
     "slug": "sport-amstutz",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 301,
     "timeDay": 254,
     "timeWeek": 284,
     "timeMonth": 306,
     "timeYear": 303,
-    "dailyMinutesDown": {
-      "2025-04-28": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TECTON",
