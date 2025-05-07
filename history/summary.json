@@ -311,18 +311,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.farbwerkag.ch.ico",
     "slug": "farbwerk-herren-online-shop",
     "status": "up",
-    "uptime": "42.33%",
+    "uptime": "42.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "42.33%",
+    "uptimeYear": "42.19%",
     "time": 897,
     "timeDay": 499,
     "timeWeek": 787,
     "timeMonth": 827,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2025-05-07": 28,
+      "2025-05-07": 693,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -677,7 +677,7 @@
     "time": 759,
     "timeDay": 646,
     "timeWeek": 674,
-    "timeMonth": 653,
+    "timeMonth": 658,
     "timeYear": 820,
     "dailyMinutesDown": {
       "2025-03-29": 18,
@@ -829,10 +829,10 @@
     "url": "https://www.ruefenacht-elektro.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.ruefenacht-elektro.ch.ico",
     "slug": "ruefenacht-elektro-ag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
@@ -840,7 +840,9 @@
     "timeWeek": 231,
     "timeMonth": 230,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 1
+    }
   },
   {
     "name": "sahli:interactive",
