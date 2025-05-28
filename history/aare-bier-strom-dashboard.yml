@@ -1,7 +1,7 @@
 url: https://aarebier.gerberenergietechnik.ch
-status: up
-code: 200
-responseTime: 942
-lastUpdated: 2025-05-27T23:02:00.470Z
+status: down
+code: 500
+responseTime: 2249
+lastUpdated: 2025-05-28T18:40:22.556Z
 startTime: 2024-12-12T08:48:32.363Z
 generator: Upptime <https://github.com/upptime/upptime>
