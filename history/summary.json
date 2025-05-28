@@ -161,8 +161,8 @@
     "status": "down",
     "uptime": "96.90%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "50.40%",
-    "uptimeMonth": "88.59%",
+    "uptimeWeek": "50.25%",
+    "uptimeMonth": "88.55%",
     "uptimeYear": "96.90%",
     "time": 1420,
     "timeDay": 475,
@@ -170,7 +170,7 @@
     "timeMonth": 1348,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2025-05-28": 1091,
+      "2025-05-28": 1106,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1028,
@@ -326,7 +326,7 @@
     "timeMonth": 957,
     "timeYear": 909,
     "dailyMinutesDown": {
-      "2025-05-28": 1092,
+      "2025-05-28": 1106,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
@@ -570,10 +570,10 @@
     "url": "https://www.hofmattuettligen.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.hofmattuettligen.ch.ico",
     "slug": "hofmatt-uettligen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1662,
@@ -581,7 +581,9 @@
     "timeWeek": 1613,
     "timeMonth": 1700,
     "timeYear": 1662,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-28": 1
+    }
   },
   {
     "name": "Huldi + Stucki AG",
@@ -860,19 +862,19 @@
     "url": "https://www.ruefenacht-elektro.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.ruefenacht-elektro.ch.ico",
     "slug": "ruefenacht-elektro-ag",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 228,
-    "timeDay": 164,
-    "timeWeek": 246,
-    "timeMonth": 265,
-    "timeYear": 234,
+    "timeDay": 177,
+    "timeWeek": 239,
+    "timeMonth": 262,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-05-28": 1,
+      "2025-05-28": 15,
       "2025-05-07": 17
     }
   },
