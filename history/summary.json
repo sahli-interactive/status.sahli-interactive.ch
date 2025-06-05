@@ -163,7 +163,7 @@
     "status": "up",
     "uptime": "95.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.51%",
+    "uptimeWeek": "64.61%",
     "uptimeMonth": "76.99%",
     "uptimeYear": "95.03%",
     "time": 1401,
@@ -192,9 +192,9 @@
     "slug": "etage-est-gmb-h",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "72.46%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "71.75%",
+    "uptimeWeek": "95.96%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "99.91%",
     "time": 1164,
     "timeDay": 2833,
@@ -202,7 +202,7 @@
     "timeMonth": 1325,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2025-06-05": 397,
+      "2025-06-05": 407,
       "2024-11-13": 70
     }
   },
@@ -333,7 +333,7 @@
     "timeMonth": 984,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2025-06-05": 1154,
+      "2025-06-05": 1164,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
@@ -527,18 +527,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hausdessports.ch.ico",
     "slug": "haus-des-sports",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "74.51%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.84%",
+    "uptimeDay": "73.80%",
+    "uptimeWeek": "96.26%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.84%",
     "time": 1169,
     "timeDay": 3202,
     "timeWeek": 2027,
     "timeMonth": 1457,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2025-06-05": 367,
+      "2025-06-05": 377,
       "2025-02-24": 16
     }
   },
@@ -746,9 +746,9 @@
     "slug": "masina-gfeller-nyffenegger",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "72.58%",
-    "uptimeWeek": "96.08%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "71.87%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.92%",
     "time": 968,
     "timeDay": 2772,
@@ -756,7 +756,7 @@
     "timeMonth": 1166,
     "timeYear": 981,
     "dailyMinutesDown": {
-      "2025-06-05": 395,
+      "2025-06-05": 405,
       "2024-11-27": 17
     }
   },
@@ -804,19 +804,19 @@
     "url": "https://www.nuwa.swiss",
     "icon": "https://icons.duckduckgo.com/ip3/www.nuwa.swiss.ico",
     "slug": "nuwa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "81.07%",
-    "uptimeWeek": "97.30%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "80.53%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.89%",
-    "time": 433,
-    "timeDay": 1852,
-    "timeWeek": 1076,
-    "timeMonth": 600,
-    "timeYear": 433,
+    "time": 459,
+    "timeDay": 2326,
+    "timeWeek": 1391,
+    "timeMonth": 717,
+    "timeYear": 459,
     "dailyMinutesDown": {
-      "2025-06-05": 272
+      "2025-06-05": 280
     }
   },
   {
@@ -1022,9 +1022,9 @@
     "slug": "sorglos-design",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "77.74%",
-    "uptimeWeek": "96.82%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "77.02%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "99.87%",
     "time": 1321,
     "timeDay": 4401,
@@ -1032,7 +1032,7 @@
     "timeMonth": 1723,
     "timeYear": 1321,
     "dailyMinutesDown": {
-      "2025-06-05": 320
+      "2025-06-05": 331
     }
   },
   {
@@ -1082,9 +1082,9 @@
     "slug": "tubus-gmb-h",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "79.78%",
-    "uptimeWeek": "97.11%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "79.07%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.88%",
     "time": 394,
     "timeDay": 3231,
@@ -1092,7 +1092,7 @@
     "timeMonth": 754,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2025-06-05": 291
+      "2025-06-05": 301
     }
   },
   {
