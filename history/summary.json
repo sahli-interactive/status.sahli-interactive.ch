@@ -163,7 +163,7 @@
     "status": "up",
     "uptime": "95.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.61%",
+    "uptimeWeek": "64.69%",
     "uptimeMonth": "76.99%",
     "uptimeYear": "95.03%",
     "time": 1401,
@@ -192,9 +192,9 @@
     "slug": "etage-est-gmb-h",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "71.75%",
-    "uptimeWeek": "95.96%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "71.16%",
+    "uptimeWeek": "95.88%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.91%",
     "time": 1164,
     "timeDay": 2833,
@@ -202,7 +202,7 @@
     "timeMonth": 1325,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2025-06-05": 407,
+      "2025-06-05": 415,
       "2024-11-13": 70
     }
   },
@@ -333,7 +333,7 @@
     "timeMonth": 984,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2025-06-05": 1164,
+      "2025-06-05": 1172,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
@@ -528,9 +528,9 @@
     "slug": "haus-des-sports",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "73.80%",
-    "uptimeWeek": "96.26%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "73.22%",
+    "uptimeWeek": "96.17%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.84%",
     "time": 1169,
     "timeDay": 3202,
@@ -538,7 +538,7 @@
     "timeMonth": 1457,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2025-06-05": 377,
+      "2025-06-05": 386,
       "2025-02-24": 16
     }
   },
@@ -746,9 +746,9 @@
     "slug": "masina-gfeller-nyffenegger",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "71.87%",
-    "uptimeWeek": "95.98%",
-    "uptimeMonth": "99.08%",
+    "uptimeDay": "71.29%",
+    "uptimeWeek": "95.90%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "99.92%",
     "time": 968,
     "timeDay": 2772,
@@ -756,7 +756,7 @@
     "timeMonth": 1166,
     "timeYear": 981,
     "dailyMinutesDown": {
-      "2025-06-05": 405,
+      "2025-06-05": 414,
       "2024-11-27": 17
     }
   },
@@ -804,11 +804,11 @@
     "url": "https://www.nuwa.swiss",
     "icon": "https://icons.duckduckgo.com/ip3/www.nuwa.swiss.ico",
     "slug": "nuwa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "80.53%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "99.36%",
+    "uptimeDay": "80.37%",
+    "uptimeWeek": "97.20%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "99.89%",
     "time": 459,
     "timeDay": 2326,
@@ -816,7 +816,7 @@
     "timeMonth": 717,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2025-06-05": 280
+      "2025-06-05": 282
     }
   },
   {
@@ -1022,9 +1022,9 @@
     "slug": "sorglos-design",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "77.02%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "76.45%",
+    "uptimeWeek": "96.64%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "99.87%",
     "time": 1321,
     "timeDay": 4401,
@@ -1032,7 +1032,7 @@
     "timeMonth": 1723,
     "timeYear": 1321,
     "dailyMinutesDown": {
-      "2025-06-05": 331
+      "2025-06-05": 339
     }
   },
   {
@@ -1082,9 +1082,9 @@
     "slug": "tubus-gmb-h",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "79.07%",
-    "uptimeWeek": "97.01%",
-    "uptimeMonth": "99.31%",
+    "uptimeDay": "78.49%",
+    "uptimeWeek": "96.93%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.88%",
     "time": 394,
     "timeDay": 3231,
@@ -1092,7 +1092,7 @@
     "timeMonth": 754,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2025-06-05": 301
+      "2025-06-05": 309
     }
   },
   {
