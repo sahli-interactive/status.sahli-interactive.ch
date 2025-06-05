@@ -163,7 +163,7 @@
     "status": "up",
     "uptime": "95.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.53%",
+    "uptimeWeek": "61.65%",
     "uptimeMonth": "76.99%",
     "uptimeYear": "95.03%",
     "time": 1401,
@@ -192,9 +192,9 @@
     "slug": "etage-est-gmb-h",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "93.31%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "92.43%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
     "time": 1164,
     "timeDay": 2833,
@@ -202,7 +202,7 @@
     "timeMonth": 1325,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2025-06-05": 96,
+      "2025-06-05": 109,
       "2024-11-13": 70
     }
   },
@@ -333,7 +333,7 @@
     "timeMonth": 984,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2025-06-05": 854,
+      "2025-06-05": 866,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
@@ -528,9 +528,9 @@
     "slug": "haus-des-sports",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "94.30%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "93.42%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.96%",
     "time": 1142,
     "timeDay": 2907,
@@ -538,7 +538,7 @@
     "timeMonth": 1328,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2025-06-05": 82,
+      "2025-06-05": 95,
       "2025-02-24": 16
     }
   },
@@ -717,9 +717,9 @@
     "slug": "malerei-zimmermann",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.90%",
     "time": 794,
     "timeDay": 711,
@@ -727,7 +727,6 @@
     "timeMonth": 1040,
     "timeYear": 855,
     "dailyMinutesDown": {
-      "2025-06-05": 11,
       "2025-05-25": 25,
       "2025-05-12": 148,
       "2025-03-29": 18,
@@ -746,9 +745,9 @@
     "slug": "masina-gfeller-nyffenegger",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "93.42%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "92.55%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 968,
     "timeDay": 2772,
@@ -756,7 +755,7 @@
     "timeMonth": 1166,
     "timeYear": 981,
     "dailyMinutesDown": {
-      "2025-06-05": 95,
+      "2025-06-05": 108,
       "2024-11-27": 17
     }
   },
@@ -806,9 +805,9 @@
     "slug": "nuwa",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 385,
     "timeDay": 314,
@@ -816,7 +815,7 @@
     "timeMonth": 363,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-06-05": 13
+      "2025-06-05": 26
     }
   },
   {
@@ -961,9 +960,9 @@
     "slug": "salzmann-uhren-and-bijouterie",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
     "time": 1351,
     "timeDay": 845,
@@ -971,7 +970,7 @@
     "timeMonth": 868,
     "timeYear": 1351,
     "dailyMinutesDown": {
-      "2025-06-05": 44,
+      "2025-06-05": 57,
       "2025-02-07": 21
     }
   },
@@ -1020,18 +1019,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sorglos-design.ch.ico",
     "slug": "sorglos-design",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "95.72%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "94.85%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.97%",
     "time": 1269,
     "timeDay": 3376,
     "timeWeek": 1852,
     "timeMonth": 1467,
     "timeYear": 1269,
     "dailyMinutesDown": {
-      "2025-06-05": 62
+      "2025-06-05": 74
     }
   },
   {
@@ -1079,19 +1078,19 @@
     "url": "https://tubusgmbh.ch",
     "icon": "https://icons.duckduckgo.com/ip3/tubusgmbh.ch.ico",
     "slug": "tubus-gmb-h",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 342,
     "timeDay": 2030,
     "timeWeek": 860,
     "timeMonth": 502,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2025-06-05": 41
+      "2025-06-05": 31
     }
   },
   {
