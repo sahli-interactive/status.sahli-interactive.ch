@@ -163,8 +163,8 @@
     "status": "down",
     "uptime": "93.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "41.00%",
-    "uptimeMonth": "63.41%",
+    "uptimeWeek": "40.90%",
+    "uptimeMonth": "63.39%",
     "uptimeYear": "93.20%",
     "time": 1380,
     "timeDay": 502,
@@ -172,7 +172,7 @@
     "timeMonth": 1093,
     "timeYear": 1380,
     "dailyMinutesDown": {
-      "2025-06-19": 600,
+      "2025-06-19": 610,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -339,7 +339,7 @@
     "timeMonth": 937,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2025-06-19": 600,
+      "2025-06-19": 611,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -589,19 +589,19 @@
     "url": "https://www.hilscher.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.hilscher.ch.ico",
     "slug": "hilscher-swiss",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 100,
+    "timeDay": 136,
     "timeWeek": 179,
     "timeMonth": 173,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2025-06-19": 1
+      "2025-06-19": 11
     }
   },
   {
