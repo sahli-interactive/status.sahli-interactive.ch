@@ -163,8 +163,8 @@
     "status": "down",
     "uptime": "93.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "40.90%",
-    "uptimeMonth": "63.39%",
+    "uptimeWeek": "40.75%",
+    "uptimeMonth": "63.36%",
     "uptimeYear": "93.20%",
     "time": 1380,
     "timeDay": 502,
@@ -172,7 +172,7 @@
     "timeMonth": 1093,
     "timeYear": 1380,
     "dailyMinutesDown": {
-      "2025-06-19": 610,
+      "2025-06-19": 625,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -339,7 +339,7 @@
     "timeMonth": 937,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2025-06-19": 611,
+      "2025-06-19": 625,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -591,18 +591,16 @@
     "slug": "hilscher-swiss",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
     "timeDay": 136,
     "timeWeek": 179,
     "timeMonth": 173,
     "timeYear": 163,
-    "dailyMinutesDown": {
-      "2025-06-19": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hofmatt Uettligen",
@@ -665,10 +663,10 @@
     "url": "https://www.insecor.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.insecor.ch.ico",
     "slug": "insecor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.65%",
     "time": 882,
@@ -677,6 +675,7 @@
     "timeMonth": 899,
     "timeYear": 876,
     "dailyMinutesDown": {
+      "2025-06-19": 1,
       "2025-06-15": 33,
       "2025-06-07": 41,
       "2025-05-28": 34,
