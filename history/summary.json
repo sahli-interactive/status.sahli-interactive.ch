@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/aarebier.gerberenergietechnik.ch.ico",
     "slug": "aare-bier-strom-dashboard",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 1396,
     "timeDay": 1965,
     "timeWeek": 1349,
     "timeMonth": 1248,
     "timeYear": 1396,
     "dailyMinutesDown": {
-      "2025-07-11": 9,
       "2025-05-28": 75,
       "2025-01-06": 27
     }
@@ -51,18 +50,16 @@
     "slug": "autoverkehr-group",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1900,
     "timeDay": 1211,
     "timeWeek": 1166,
     "timeMonth": 1244,
     "timeYear": 1900,
-    "dailyMinutesDown": {
-      "2025-07-11": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Disegnato",
@@ -71,9 +68,9 @@
     "slug": "disegnato",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 2930,
     "timeDay": 2298,
@@ -81,7 +78,6 @@
     "timeMonth": 2214,
     "timeYear": 2930,
     "dailyMinutesDown": {
-      "2025-07-11": 9,
       "2025-06-05": 19,
       "2024-12-17": 498,
       "2024-12-16": 145
@@ -93,19 +89,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/win.cardinal.ch.ico",
     "slug": "cardinal-coolbox-promotion",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
     "timeDay": 185,
     "timeWeek": 155,
     "timeMonth": 173,
     "timeYear": 179,
-    "dailyMinutesDown": {
-      "2025-07-11": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cerletti Immobilien",
@@ -169,7 +163,7 @@
     "status": "up",
     "uptime": "85.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "21.02%",
+    "uptimeWeek": "21.16%",
     "uptimeMonth": "29.79%",
     "uptimeYear": "85.77%",
     "time": 1417,
@@ -261,18 +255,16 @@
     "slug": "fairmed-schweiz",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 185,
     "timeWeek": 174,
     "timeMonth": 212,
     "timeYear": 209,
-    "dailyMinutesDown": {
-      "2025-07-11": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FAIRMED Kamerun",
@@ -337,18 +329,16 @@
     "slug": "farbwerk-herren",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 874,
     "timeDay": 592,
     "timeWeek": 862,
     "timeMonth": 1018,
     "timeYear": 874,
-    "dailyMinutesDown": {
-      "2025-07-11": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Farbwerk Herren Online-Shop",
@@ -367,7 +357,7 @@
     "timeMonth": 1026,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2025-07-11": 1217,
+      "2025-07-11": 1231,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
@@ -620,9 +610,9 @@
     "slug": "heidadorf-visperterminen",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 434,
     "timeDay": 454,
@@ -630,7 +620,6 @@
     "timeMonth": 358,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2025-07-11": 9,
       "2024-12-17": 497,
       "2024-12-16": 138
     }
@@ -642,18 +631,16 @@
     "slug": "hilscher-swiss",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
     "timeDay": 246,
     "timeWeek": 169,
     "timeMonth": 179,
     "timeYear": 165,
-    "dailyMinutesDown": {
-      "2025-07-11": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hofmatt Uettligen",
@@ -716,19 +703,19 @@
     "url": "https://www.insecor.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.insecor.ch.ico",
     "slug": "insecor",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.76%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.75%",
     "time": 883,
-    "timeDay": 1343,
-    "timeWeek": 947,
-    "timeMonth": 927,
-    "timeYear": 887,
+    "timeDay": 1059,
+    "timeWeek": 930,
+    "timeMonth": 925,
+    "timeYear": 886,
     "dailyMinutesDown": {
-      "2025-07-11": 2,
+      "2025-07-11": 15,
       "2025-06-29": 46,
       "2025-06-15": 33,
       "2025-06-07": 41,
@@ -752,18 +739,16 @@
     "slug": "koor-baumanagement",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 416,
     "timeDay": 382,
     "timeWeek": 372,
     "timeMonth": 397,
     "timeYear": 416,
-    "dailyMinutesDown": {
-      "2025-07-11": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "M & T Schreinerei GmbH",
@@ -792,9 +777,9 @@
     "slug": "malerei-zimmermann",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 804,
     "timeDay": 796,
@@ -802,7 +787,6 @@
     "timeMonth": 733,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2025-07-11": 9,
       "2025-06-05": 19,
       "2025-05-25": 25,
       "2025-05-12": 148,
