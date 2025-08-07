@@ -4,19 +4,19 @@
     "url": "https://aarebier.gerberenergietechnik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/aarebier.gerberenergietechnik.ch.ico",
     "slug": "aare-bier-strom-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.95%",
     "time": 1633,
     "timeDay": 870,
-    "timeWeek": 4570,
+    "timeWeek": 3690,
     "timeMonth": 2690,
     "timeYear": 1633,
     "dailyMinutesDown": {
-      "2025-08-06": 8,
+      "2025-08-07": 1,
       "2025-08-01": 22,
       "2025-07-31": 30,
       "2025-05-28": 75,
@@ -51,11 +51,11 @@
     "url": "https://www.autoverkehr.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.autoverkehr.ch.ico",
     "slug": "autoverkehr-group",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1820,
     "timeDay": 1337,
@@ -63,7 +63,7 @@
     "timeMonth": 1265,
     "timeYear": 1820,
     "dailyMinutesDown": {
-      "2025-08-06": 8
+      "2025-08-07": 1
     }
   },
   {
@@ -71,19 +71,19 @@
     "url": "https://www.disegnato.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.disegnato.ch.ico",
     "slug": "disegnato",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.80%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.81%",
     "time": 2850,
     "timeDay": 2009,
     "timeWeek": 2114,
     "timeMonth": 2249,
     "timeYear": 2850,
     "dailyMinutesDown": {
-      "2025-08-06": 8,
+      "2025-08-07": 1,
       "2025-06-05": 19,
       "2024-12-17": 498,
       "2024-12-16": 145
@@ -94,11 +94,11 @@
     "url": "https://win.cardinal.ch",
     "icon": "https://icons.duckduckgo.com/ip3/win.cardinal.ch.ico",
     "slug": "cardinal-coolbox-promotion",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
     "timeDay": 97,
@@ -106,7 +106,7 @@
     "timeMonth": 177,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-08-06": 8
+      "2025-08-07": 1
     }
   },
   {
@@ -169,11 +169,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.die-talentschule.ch.ico",
     "slug": "die-talentschule",
     "status": "up",
-    "uptime": "87.34%",
+    "uptime": "87.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.98%",
-    "uptimeYear": "87.34%",
+    "uptimeMonth": "91.63%",
+    "uptimeYear": "87.38%",
     "time": 1424,
     "timeDay": 1260,
     "timeWeek": 1424,
@@ -261,18 +261,20 @@
     "url": "https://www.fairmed.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.fairmed.ch.ico",
     "slug": "fairmed-schweiz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 132,
-    "timeWeek": 230,
+    "time": 265,
+    "timeDay": 183,
+    "timeWeek": 231,
     "timeMonth": 209,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-07": 1
+    }
   },
   {
     "name": "FAIRMED Kamerun",
@@ -335,11 +337,11 @@
     "url": "https://www.farbwerkag.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.farbwerkag.ch.ico",
     "slug": "farbwerk-herren",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 895,
     "timeDay": 1111,
@@ -347,7 +349,7 @@
     "timeMonth": 1006,
     "timeYear": 895,
     "dailyMinutesDown": {
-      "2025-08-06": 8
+      "2025-08-07": 1
     }
   },
   {
@@ -356,18 +358,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.farbwerkag.ch.ico",
     "slug": "farbwerk-herren-online-shop",
     "status": "up",
-    "uptime": "25.94%",
+    "uptime": "25.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.94%",
+    "uptimeYear": "25.85%",
     "time": 937,
     "timeDay": 418,
     "timeWeek": 1162,
     "timeMonth": 993,
     "timeYear": 937,
     "dailyMinutesDown": {
-      "2025-08-07": 31,
+      "2025-08-07": 1193,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
@@ -645,11 +647,11 @@
     "url": "https://www.heidadorf.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.heidadorf.ch.ico",
     "slug": "heidadorf-visperterminen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 436,
     "timeDay": 390,
@@ -657,7 +659,7 @@
     "timeMonth": 442,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-08-06": 8,
+      "2025-08-07": 1,
       "2024-12-17": 497,
       "2024-12-16": 138
     }
@@ -667,11 +669,11 @@
     "url": "https://www.hilscher.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.hilscher.ch.ico",
     "slug": "hilscher-swiss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
     "timeDay": 234,
@@ -679,7 +681,7 @@
     "timeMonth": 191,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-08-06": 8
+      "2025-08-07": 1
     }
   },
   {
@@ -773,11 +775,11 @@
     "url": "https://www.koor-baumanagement.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.koor-baumanagement.ch.ico",
     "slug": "koor-baumanagement",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 422,
     "timeDay": 376,
@@ -785,7 +787,7 @@
     "timeMonth": 460,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2025-08-06": 8
+      "2025-08-07": 1
     }
   },
   {
@@ -813,19 +815,19 @@
     "url": "https://www.zimal.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.zimal.ch.ico",
     "slug": "malerei-zimmermann",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "97.50%",
-    "uptimeMonth": "98.60%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "98.61%",
     "uptimeYear": "99.79%",
-    "time": 863,
+    "time": 864,
     "timeDay": 671,
     "timeWeek": 712,
     "timeMonth": 1284,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2025-08-06": 8,
+      "2025-08-07": 1,
       "2025-08-01": 244,
       "2025-07-29": 210,
       "2025-07-22": 153,
@@ -866,10 +868,10 @@
     "url": "https://www.mls-architekten.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.mls-architekten.ch.ico",
     "slug": "mls-architekten",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.80%",
     "time": 398,
@@ -878,6 +880,7 @@
     "timeMonth": 365,
     "timeYear": 398,
     "dailyMinutesDown": {
+      "2025-08-07": 1,
       "2025-07-24": 16,
       "2024-12-17": 497,
       "2024-12-16": 159
@@ -906,10 +909,10 @@
     "url": "https://www.nuwa.swiss",
     "icon": "https://icons.duckduckgo.com/ip3/www.nuwa.swiss.ico",
     "slug": "nuwa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 475,
@@ -918,6 +921,7 @@
     "timeMonth": 496,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2025-08-07": 1,
       "2025-06-05": 303
     }
   },
@@ -927,18 +931,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.philosophie.ch.ico",
     "slug": "philosophie-ch",
     "status": "down",
-    "uptime": "97.86%",
+    "uptime": "97.81%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "52.49%",
-    "uptimeMonth": "88.86%",
-    "uptimeYear": "98.88%",
+    "uptimeWeek": "41.32%",
+    "uptimeMonth": "86.21%",
+    "uptimeYear": "98.66%",
     "time": 3492,
     "timeDay": 207,
-    "timeWeek": 2868,
+    "timeWeek": 2524,
     "timeMonth": 5751,
     "timeYear": 2012,
     "dailyMinutesDown": {
-      "2025-08-07": 32,
+      "2025-08-07": 1194,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
@@ -978,10 +982,10 @@
     "url": "https://www.rudolfobrecht.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.rudolfobrecht.com.ico",
     "slug": "rudolf-obrecht-ag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 640,
@@ -989,7 +993,9 @@
     "timeWeek": 541,
     "timeMonth": 653,
     "timeYear": 640,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-07": 1
+    }
   },
   {
     "name": "Rüfenacht Elektro AG",
@@ -1017,10 +1023,10 @@
     "url": "https://sahli-interactive.ch",
     "icon": "https://icons.duckduckgo.com/ip3/sahli-interactive.ch.ico",
     "slug": "sahli-interactive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 788,
@@ -1028,17 +1034,19 @@
     "timeWeek": 721,
     "timeMonth": 911,
     "timeYear": 785,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-07": 2
+    }
   },
   {
     "name": "SahliBeschriftung",
     "url": "https://www.sahlibeschriftung.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.sahlibeschriftung.ch.ico",
     "slug": "sahli-beschriftung",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
@@ -1046,7 +1054,9 @@
     "timeWeek": 224,
     "timeMonth": 215,
     "timeYear": 211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-07": 2
+    }
   },
   {
     "name": "sahli.app",
@@ -1071,10 +1081,10 @@
     "url": "https://www.zeitfuersalzmann.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.zeitfuersalzmann.ch.ico",
     "slug": "salzmann-uhren-and-bijouterie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1246,
@@ -1083,6 +1093,7 @@
     "timeMonth": 817,
     "timeYear": 1246,
     "dailyMinutesDown": {
+      "2025-08-07": 2,
       "2025-06-05": 295,
       "2025-02-07": 21
     }
@@ -1114,10 +1125,10 @@
     "url": "https://zevsiloahsued.gerberenergietechnik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/zevsiloahsued.gerberenergietechnik.ch.ico",
     "slug": "siloah-energie-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
@@ -1125,7 +1136,9 @@
     "timeWeek": 145,
     "timeMonth": 239,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-07": 2
+    }
   },
   {
     "name": "Sorglos Design",
@@ -1192,10 +1205,10 @@
     "url": "https://tubusgmbh.ch",
     "icon": "https://icons.duckduckgo.com/ip3/tubusgmbh.ch.ico",
     "slug": "tubus-gmb-h",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 392,
@@ -1204,6 +1217,7 @@
     "timeMonth": 326,
     "timeYear": 392,
     "dailyMinutesDown": {
+      "2025-08-07": 2,
       "2025-06-05": 331
     }
   },
@@ -1250,10 +1264,10 @@
     "url": "https://www.ziegelhuesi.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.ziegelhuesi.ch.ico",
     "slug": "ziegelhuesi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 184,
@@ -1262,6 +1276,7 @@
     "timeMonth": 205,
     "timeYear": 184,
     "dailyMinutesDown": {
+      "2025-08-07": 2,
       "2025-04-03": 21
     }
   },
@@ -1270,10 +1285,10 @@
     "url": "https://zwahlen-wieser.gerberenergietechnik.ch",
     "icon": "https://icons.duckduckgo.com/ip3/zwahlen-wieser.gerberenergietechnik.ch.ico",
     "slug": "zwahlen-and-wieser-energie-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 132,
@@ -1282,6 +1297,7 @@
     "timeMonth": 151,
     "timeYear": 132,
     "dailyMinutesDown": {
+      "2025-08-07": 2,
       "2025-04-03": 21
     }
   }
