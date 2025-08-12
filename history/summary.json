@@ -359,7 +359,7 @@
     "timeMonth": 962,
     "timeYear": 937,
     "dailyMinutesDown": {
-      "2025-08-12": 756,
+      "2025-08-12": 779,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
@@ -719,19 +719,19 @@
     "url": "https://www.initiative-schweiz.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.initiative-schweiz.org.ico",
     "slug": "initiative-schweiz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1299,
-    "timeDay": 1163,
-    "timeWeek": 1350,
-    "timeMonth": 1323,
-    "timeYear": 1299,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 1298,
+    "timeDay": 1068,
+    "timeWeek": 1303,
+    "timeMonth": 1312,
+    "timeYear": 1298,
     "dailyMinutesDown": {
-      "2025-08-12": 2
+      "2025-08-12": 23
     }
   },
   {
@@ -923,7 +923,7 @@
     "uptime": "97.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.77%",
+    "uptimeMonth": "70.72%",
     "uptimeYear": "97.37%",
     "time": 3445,
     "timeDay": 184,
@@ -931,7 +931,7 @@
     "timeMonth": 5672,
     "timeYear": 1998,
     "dailyMinutesDown": {
-      "2025-08-12": 757,
+      "2025-08-12": 779,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
