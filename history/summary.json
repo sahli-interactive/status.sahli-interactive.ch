@@ -50,19 +50,19 @@
     "url": "https://www.autoverkehr.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.autoverkehr.ch.ico",
     "slug": "autoverkehr-group",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1852,
-    "timeDay": 8762,
-    "timeWeek": 3242,
-    "timeMonth": 1790,
-    "timeYear": 1852,
+    "time": 1850,
+    "timeDay": 6262,
+    "timeWeek": 3022,
+    "timeMonth": 1776,
+    "timeYear": 1850,
     "dailyMinutesDown": {
-      "2025-08-24": 1
+      "2025-08-24": 14
     }
   },
   {
@@ -361,7 +361,7 @@
     "timeMonth": 1191,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2025-08-24": 492,
+      "2025-08-24": 506,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -937,7 +937,7 @@
     "uptime": "96.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.02%",
+    "uptimeMonth": "31.99%",
     "uptimeYear": "94.13%",
     "time": 3333,
     "timeDay": 119,
@@ -945,7 +945,7 @@
     "timeMonth": 3913,
     "timeYear": 1971,
     "dailyMinutesDown": {
-      "2025-08-24": 492,
+      "2025-08-24": 506,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
