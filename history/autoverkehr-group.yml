@@ -1,7 +1,7 @@
 url: https://www.autoverkehr.ch
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-01T16:01:03.529Z
+status: up
+code: 200
+responseTime: 1423
+lastUpdated: 2025-09-01T16:11:59.993Z
 startTime: 2024-12-12T08:48:33.444Z
 generator: Upptime <https://github.com/upptime/upptime>
