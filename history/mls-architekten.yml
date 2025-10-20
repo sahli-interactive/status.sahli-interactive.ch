@@ -1,7 +1,7 @@
 url: https://www.mls-architekten.ch
-status: up
-code: 200
-responseTime: 359
-lastUpdated: 2025-10-19T23:02:34.635Z
+status: down
+code: 500
+responseTime: 3554
+lastUpdated: 2025-10-20T07:15:10.226Z
 startTime: 2024-12-12T08:48:59.309Z
 generator: Upptime <https://github.com/upptime/upptime>
