@@ -35,10 +35,6 @@ sites:
     url: https://www.creativpersonal.ch
     assignees:
       - m43nu
-  - name: "Die Talentschule"
-    url: https://www.die-talentschule.ch
-    assignees:
-      - peperoli
   - name: "Etage Est GmbH"
     url: https://www.etage-est.ch
     assignees:
