@@ -1,7 +1,7 @@
 url: https://datenausgabe.aramis.admin.ch
-status: down
-code: 500
-responseTime: 1433
-lastUpdated: 2025-10-30T14:42:01.499Z
+status: up
+code: 200
+responseTime: 945
+lastUpdated: 2025-10-30T14:51:36.305Z
 startTime: 2024-12-12T13:17:48.713Z
 generator: Upptime <https://github.com/upptime/upptime>
