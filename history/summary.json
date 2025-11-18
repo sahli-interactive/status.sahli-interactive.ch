@@ -352,11 +352,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.farbwerkag.ch.ico",
     "slug": "farbwerk-herren-online-shop",
     "status": "up",
-    "uptime": "24.54%",
+    "uptime": "24.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.80%",
-    "uptimeYear": "24.54%",
+    "uptimeMonth": "70.83%",
+    "uptimeYear": "24.55%",
     "time": 996,
     "timeDay": 582,
     "timeWeek": 997,
@@ -666,9 +666,9 @@
     "slug": "glas-werkstatt-kraeuchi",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "91.52%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "92.14%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 567,
     "timeDay": 439,
@@ -676,7 +676,7 @@
     "timeMonth": 516,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2025-11-18": 122
+      "2025-11-18": 113
     }
   },
   {
@@ -801,17 +801,17 @@
     "slug": "huldi-stucki-ag",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "90.39%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "90.91%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.98%",
     "time": 591,
     "timeDay": 460,
     "timeWeek": 531,
     "timeMonth": 552,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2025-11-18": 138
+      "2025-11-18": 131
     }
   },
   {
@@ -1087,14 +1087,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.49%",
+    "uptimeYear": "70.48%",
     "time": 2181,
     "timeDay": 332,
     "timeWeek": 163,
     "timeMonth": 171,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2025-11-18": 974,
+      "2025-11-18": 989,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1443,19 +1443,19 @@
     "url": "https://www.sport-amstutz.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.sport-amstutz.ch.ico",
     "slug": "sport-amstutz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "92.00%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "91.06%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.98%",
     "time": 357,
-    "timeDay": 1396,
-    "timeWeek": 890,
-    "timeMonth": 514,
+    "timeDay": 1240,
+    "timeWeek": 845,
+    "timeMonth": 508,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2025-11-18": 115
+      "2025-11-18": 128
     }
   },
   {
