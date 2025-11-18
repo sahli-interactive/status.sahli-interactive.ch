@@ -355,7 +355,7 @@
     "uptime": "24.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.70%",
+    "uptimeMonth": "70.73%",
     "uptimeYear": "24.54%",
     "time": 996,
     "timeDay": 582,
@@ -1087,14 +1087,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.50%",
+    "uptimeYear": "70.49%",
     "time": 2181,
     "timeDay": 332,
     "timeWeek": 163,
     "timeMonth": 171,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2025-11-18": 932,
+      "2025-11-18": 945,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1510,10 +1510,10 @@
     "url": "https://traumbaum.ch",
     "icon": "https://icons.duckduckgo.com/ip3/traumbaum.ch.ico",
     "slug": "traumbaum",
-    "status": "up",
+    "status": "down",
     "uptime": "95.59%",
-    "uptimeDay": "92.70%",
-    "uptimeWeek": "98.96%",
+    "uptimeDay": "92.57%",
+    "uptimeWeek": "98.94%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 375,
@@ -1522,7 +1522,7 @@
     "timeMonth": 390,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2025-11-18": 105
+      "2025-11-18": 107
     }
   },
   {
