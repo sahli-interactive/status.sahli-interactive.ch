@@ -278,18 +278,20 @@
     "url": "https://www.fairmed.org.np",
     "icon": "https://icons.duckduckgo.com/ip3/www.fairmed.org.np.ico",
     "slug": "fairmed-nepal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1497,
-    "timeDay": 1988,
-    "timeWeek": 2056,
-    "timeMonth": 1877,
-    "timeYear": 1555,
-    "dailyMinutesDown": {}
+    "time": 1495,
+    "timeDay": 1096,
+    "timeWeek": 1824,
+    "timeMonth": 1825,
+    "timeYear": 1552,
+    "dailyMinutesDown": {
+      "2025-11-18": 1
+    }
   },
   {
     "name": "FAIRMED Sri Lanka",
@@ -344,7 +346,7 @@
     "uptime": "24.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.16%",
+    "uptimeMonth": "70.18%",
     "uptimeYear": "24.50%",
     "time": 996,
     "timeDay": 582,
@@ -786,9 +788,9 @@
     "slug": "huldi-stucki-ag",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 597,
     "timeDay": 581,
@@ -796,7 +798,7 @@
     "timeMonth": 571,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2025-11-18": 1
+      "2025-11-18": 11
     }
   },
   {
@@ -831,7 +833,7 @@
     "uptimeMonth": "98.11%",
     "uptimeYear": "99.65%",
     "time": 929,
-    "timeDay": 1006,
+    "timeDay": 985,
     "timeWeek": 1056,
     "timeMonth": 1015,
     "timeYear": 927,
@@ -1078,7 +1080,7 @@
     "timeMonth": 171,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2025-11-18": 693,
+      "2025-11-18": 703,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1202,18 +1204,20 @@
     "url": "https://reneotter.ch",
     "icon": "https://icons.duckduckgo.com/ip3/reneotter.ch.ico",
     "slug": "rene-otter-architekten-gmb-h",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1057,
-    "timeDay": 1005,
-    "timeWeek": 959,
-    "timeMonth": 1060,
-    "timeYear": 1057,
-    "dailyMinutesDown": {}
+    "time": 1055,
+    "timeDay": 655,
+    "timeWeek": 877,
+    "timeMonth": 1037,
+    "timeYear": 1055,
+    "dailyMinutesDown": {
+      "2025-11-18": 2
+    }
   },
   {
     "name": "Rudolf Obrecht AG",
@@ -1490,18 +1494,20 @@
     "url": "https://traumbaum.ch",
     "icon": "https://icons.duckduckgo.com/ip3/traumbaum.ch.ico",
     "slug": "traumbaum",
-    "status": "up",
+    "status": "down",
     "uptime": "95.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 280,
-    "timeWeek": 361,
-    "timeMonth": 400,
+    "timeDay": 247,
+    "timeWeek": 342,
+    "timeMonth": 394,
     "timeYear": 374,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 2
+    }
   },
   {
     "name": "urSIGN",
