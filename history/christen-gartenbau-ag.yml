@@ -1,7 +1,7 @@
 url: https://www.christen-gartenbau.ch
-status: up
-code: 200
-responseTime: 497
-lastUpdated: 2025-11-17T23:02:00.446Z
+status: down
+code: 500
+responseTime: 194
+lastUpdated: 2025-11-18T11:57:15.017Z
 startTime: 2021-08-18T09:46:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
