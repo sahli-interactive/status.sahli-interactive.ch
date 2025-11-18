@@ -1,7 +1,7 @@
 url: https://fairmedsrilanka.org
-status: up
-code: 200
-responseTime: 2457
-lastUpdated: 2025-11-17T23:02:11.397Z
+status: down
+code: 500
+responseTime: 60
+lastUpdated: 2025-11-18T11:49:04.201Z
 startTime: 2021-08-18T09:47:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
