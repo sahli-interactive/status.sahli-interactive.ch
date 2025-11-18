@@ -260,18 +260,20 @@
     "url": "https://fairmed.cm",
     "icon": "https://icons.duckduckgo.com/ip3/fairmed.cm.ico",
     "slug": "fairmed-kamerun",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1229,
-    "timeDay": 1749,
-    "timeWeek": 1721,
-    "timeMonth": 1517,
-    "timeYear": 1258,
-    "dailyMinutesDown": {}
+    "time": 1228,
+    "timeDay": 1036,
+    "timeWeek": 1546,
+    "timeMonth": 1480,
+    "timeYear": 1255,
+    "dailyMinutesDown": {
+      "2025-11-18": 1
+    }
   },
   {
     "name": "FAIRMED Nepal",
@@ -280,9 +282,9 @@
     "slug": "fairmed-nepal",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1495,
     "timeDay": 1096,
@@ -290,7 +292,7 @@
     "timeMonth": 1825,
     "timeYear": 1552,
     "dailyMinutesDown": {
-      "2025-11-18": 1
+      "2025-11-18": 10
     }
   },
   {
@@ -298,18 +300,20 @@
     "url": "https://fairmedsrilanka.org",
     "icon": "https://icons.duckduckgo.com/ip3/fairmedsrilanka.org.ico",
     "slug": "fairmed-sri-lanka",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2645,
-    "timeDay": 2457,
-    "timeWeek": 2583,
-    "timeMonth": 2492,
-    "timeYear": 2586,
-    "dailyMinutesDown": {}
+    "time": 2640,
+    "timeDay": 1259,
+    "timeWeek": 2268,
+    "timeMonth": 2416,
+    "timeYear": 2579,
+    "dailyMinutesDown": {
+      "2025-11-18": 2
+    }
   },
   {
     "name": "Farbwerk Herren",
@@ -346,7 +350,7 @@
     "uptime": "24.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.18%",
+    "uptimeMonth": "70.20%",
     "uptimeYear": "24.50%",
     "time": 996,
     "timeDay": 582,
@@ -655,18 +659,20 @@
     "url": "https://www.kraeuchi.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.kraeuchi.ch.ico",
     "slug": "glas-werkstatt-kraeuchi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 567,
-    "timeDay": 418,
-    "timeWeek": 495,
-    "timeMonth": 528,
-    "timeYear": 580,
-    "dailyMinutesDown": {}
+    "timeDay": 309,
+    "timeWeek": 458,
+    "timeMonth": 518,
+    "timeYear": 579,
+    "dailyMinutesDown": {
+      "2025-11-18": 2
+    }
   },
   {
     "name": "Goju Kan Bern AG",
@@ -788,9 +794,9 @@
     "slug": "huldi-stucki-ag",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 597,
     "timeDay": 581,
@@ -798,7 +804,7 @@
     "timeMonth": 571,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2025-11-18": 11
+      "2025-11-18": 19
     }
   },
   {
@@ -904,18 +910,19 @@
     "url": "https://www.mt-schreinerei.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.mt-schreinerei.ch.ico",
     "slug": "m-and-t-schreinerei-gmb-h",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 401,
-    "timeDay": 393,
-    "timeWeek": 430,
-    "timeMonth": 441,
+    "time": 397,
+    "timeDay": 296,
+    "timeWeek": 401,
+    "timeMonth": 433,
     "timeYear": 397,
     "dailyMinutesDown": {
+      "2025-11-18": 2,
       "2025-05-11": 698
     }
   },
@@ -1080,7 +1087,7 @@
     "timeMonth": 171,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2025-11-18": 703,
+      "2025-11-18": 712,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1204,19 +1211,19 @@
     "url": "https://reneotter.ch",
     "icon": "https://icons.duckduckgo.com/ip3/reneotter.ch.ico",
     "slug": "rene-otter-architekten-gmb-h",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1055,
-    "timeDay": 655,
-    "timeWeek": 877,
-    "timeMonth": 1037,
-    "timeYear": 1055,
+    "time": 1057,
+    "timeDay": 979,
+    "timeWeek": 961,
+    "timeMonth": 1055,
+    "timeYear": 1057,
     "dailyMinutesDown": {
-      "2025-11-18": 2
+      "2025-11-18": 8
     }
   },
   {
@@ -1429,18 +1436,20 @@
     "url": "https://www.sport-amstutz.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.sport-amstutz.ch.ico",
     "slug": "sport-amstutz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 368,
-    "timeWeek": 381,
-    "timeMonth": 338,
+    "timeDay": 282,
+    "timeWeek": 358,
+    "timeMonth": 334,
     "timeYear": 355,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 2
+    }
   },
   {
     "name": "TECTON",
@@ -1494,19 +1503,19 @@
     "url": "https://traumbaum.ch",
     "icon": "https://icons.duckduckgo.com/ip3/traumbaum.ch.ico",
     "slug": "traumbaum",
-    "status": "down",
+    "status": "up",
     "uptime": "95.59%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 247,
-    "timeWeek": 342,
-    "timeMonth": 394,
+    "timeDay": 319,
+    "timeWeek": 356,
+    "timeMonth": 396,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2025-11-18": 2
+      "2025-11-18": 9
     }
   },
   {
