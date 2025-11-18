@@ -146,19 +146,19 @@
     "url": "https://www.cerlettimmobilien.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.cerlettimmobilien.ch.ico",
     "slug": "cerletti-immobilien",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "92.58%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "92.17%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 374,
-    "timeDay": 1250,
-    "timeWeek": 812,
-    "timeMonth": 517,
+    "timeDay": 1108,
+    "timeWeek": 770,
+    "timeMonth": 510,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2025-11-18": 106
+      "2025-11-18": 112
     }
   },
   {
@@ -168,9 +168,9 @@
     "slug": "christen-gartenbau-ag",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "92.68%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "91.91%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 441,
     "timeDay": 367,
@@ -178,7 +178,7 @@
     "timeMonth": 479,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2025-11-18": 106
+      "2025-11-18": 117
     }
   },
   {
@@ -355,7 +355,7 @@
     "uptime": "24.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.75%",
+    "uptimeMonth": "70.78%",
     "uptimeYear": "24.54%",
     "time": 996,
     "timeDay": 582,
@@ -664,10 +664,10 @@
     "url": "https://www.kraeuchi.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.kraeuchi.ch.ico",
     "slug": "glas-werkstatt-kraeuchi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "92.14%",
-    "uptimeWeek": "98.88%",
+    "uptimeDay": "91.96%",
+    "uptimeWeek": "98.85%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 566,
@@ -676,7 +676,7 @@
     "timeMonth": 511,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2025-11-18": 113
+      "2025-11-18": 116
     }
   },
   {
@@ -799,19 +799,19 @@
     "url": "https://www.huldi-stucki.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.huldi-stucki.ch.ico",
     "slug": "huldi-stucki-ag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "90.91%",
-    "uptimeWeek": "98.70%",
+    "uptimeDay": "90.83%",
+    "uptimeWeek": "98.69%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.98%",
-    "time": 593,
+    "uptimeYear": "99.97%",
+    "time": 591,
     "timeDay": 463,
     "timeWeek": 539,
     "timeMonth": 555,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2025-11-18": 131
+      "2025-11-18": 132
     }
   },
   {
@@ -1094,7 +1094,7 @@
     "timeMonth": 171,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2025-11-18": 955,
+      "2025-11-18": 966,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1512,9 +1512,9 @@
     "slug": "traumbaum",
     "status": "up",
     "uptime": "95.59%",
-    "uptimeDay": "91.98%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "92.70%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 375,
     "timeDay": 335,
@@ -1522,7 +1522,7 @@
     "timeMonth": 390,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2025-11-18": 115
+      "2025-11-18": 105
     }
   },
   {
