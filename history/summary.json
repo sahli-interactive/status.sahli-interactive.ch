@@ -285,19 +285,19 @@
     "url": "https://www.fairmed.org.np",
     "icon": "https://icons.duckduckgo.com/ip3/www.fairmed.org.np.ico",
     "slug": "fairmed-nepal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "91.58%",
-    "uptimeWeek": "98.80%",
+    "uptimeDay": "91.49%",
+    "uptimeWeek": "98.78%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.98%",
-    "time": 1496,
-    "timeDay": 1180,
-    "timeWeek": 1664,
-    "timeMonth": 1774,
-    "timeYear": 1549,
+    "time": 1492,
+    "timeDay": 1004,
+    "timeWeek": 1536,
+    "timeMonth": 1729,
+    "timeYear": 1545,
     "dailyMinutesDown": {
-      "2025-11-18": 122
+      "2025-11-18": 123
     }
   },
   {
@@ -306,10 +306,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/fairmedsrilanka.org.ico",
     "slug": "fairmed-sri-lanka",
     "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "91.51%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
+    "uptime": "99.27%",
+    "uptimeDay": "92.14%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 2645,
     "timeDay": 2599,
@@ -317,7 +317,7 @@
     "timeMonth": 2513,
     "timeYear": 2587,
     "dailyMinutesDown": {
-      "2025-11-18": 123
+      "2025-11-18": 114
     }
   },
   {
@@ -355,7 +355,7 @@
     "uptime": "24.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.64%",
+    "uptimeMonth": "70.67%",
     "uptimeYear": "24.53%",
     "time": 996,
     "timeDay": 582,
@@ -1094,7 +1094,7 @@
     "timeMonth": 171,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2025-11-18": 904,
+      "2025-11-18": 917,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
