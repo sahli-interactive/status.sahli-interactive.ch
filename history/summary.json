@@ -166,19 +166,19 @@
     "url": "https://www.christen-gartenbau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.christen-gartenbau.ch.ico",
     "slug": "christen-gartenbau-ag",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "91.18%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "90.64%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.97%",
     "time": 440,
-    "timeDay": 368,
+    "timeDay": 376,
     "timeWeek": 430,
-    "timeMonth": 473,
+    "timeMonth": 472,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2025-11-18": 127
+      "2025-11-18": 135
     }
   },
   {
@@ -355,7 +355,7 @@
     "uptime": "24.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.88%",
+    "uptimeMonth": "70.90%",
     "uptimeYear": "24.55%",
     "time": 996,
     "timeDay": 582,
@@ -684,19 +684,19 @@
     "url": "https://www.gojukan.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.gojukan.ch.ico",
     "slug": "goju-kan-bern-ag",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "92.52%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "92.00%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 461,
-    "timeDay": 351,
-    "timeWeek": 401,
-    "timeMonth": 467,
-    "timeYear": 459,
+    "timeDay": 388,
+    "timeWeek": 416,
+    "timeMonth": 470,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2025-11-18": 108
+      "2025-11-18": 115
     }
   },
   {
@@ -1094,7 +1094,7 @@
     "timeMonth": 171,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2025-11-18": 1009,
+      "2025-11-18": 1018,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1510,19 +1510,19 @@
     "url": "https://traumbaum.ch",
     "icon": "https://icons.duckduckgo.com/ip3/traumbaum.ch.ico",
     "slug": "traumbaum",
-    "status": "down",
+    "status": "up",
     "uptime": "95.59%",
-    "uptimeDay": "92.55%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "92.07%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 375,
-    "timeDay": 335,
-    "timeWeek": 352,
-    "timeMonth": 390,
+    "timeDay": 356,
+    "timeWeek": 363,
+    "timeMonth": 393,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2025-11-18": 107
+      "2025-11-18": 114
     }
   },
   {
