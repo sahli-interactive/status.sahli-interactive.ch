@@ -1,7 +1,7 @@
 url: https://www.ursign.ch
-status: up
-code: 200
-responseTime: 2187
-lastUpdated: 2025-11-17T23:02:43.780Z
+status: down
+code: 500
+responseTime: 114
+lastUpdated: 2025-11-18T11:58:00.201Z
 startTime: 2021-08-18T09:47:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
