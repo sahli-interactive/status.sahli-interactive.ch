@@ -305,19 +305,19 @@
     "url": "https://fairmedsrilanka.org",
     "icon": "https://icons.duckduckgo.com/ip3/fairmedsrilanka.org.ico",
     "slug": "fairmed-sri-lanka",
-    "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "92.07%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.74%",
+    "status": "up",
+    "uptime": "99.26%",
+    "uptimeDay": "91.51%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.98%",
-    "time": 2646,
-    "timeDay": 2619,
-    "timeWeek": 2611,
-    "timeMonth": 2514,
+    "time": 2645,
+    "timeDay": 2599,
+    "timeWeek": 2602,
+    "timeMonth": 2513,
     "timeYear": 2587,
     "dailyMinutesDown": {
-      "2025-11-18": 115
+      "2025-11-18": 123
     }
   },
   {
@@ -355,7 +355,7 @@
     "uptime": "24.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.62%",
+    "uptimeMonth": "70.64%",
     "uptimeYear": "24.53%",
     "time": 996,
     "timeDay": 582,
@@ -1094,7 +1094,7 @@
     "timeMonth": 171,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2025-11-18": 895,
+      "2025-11-18": 904,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
