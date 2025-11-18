@@ -148,9 +148,9 @@
     "slug": "cerletti-immobilien",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "92.17%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "92.74%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 374,
     "timeDay": 1108,
@@ -158,7 +158,7 @@
     "timeMonth": 510,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2025-11-18": 112
+      "2025-11-18": 104
     }
   },
   {
@@ -166,19 +166,19 @@
     "url": "https://www.christen-gartenbau.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.christen-gartenbau.ch.ico",
     "slug": "christen-gartenbau-ag",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "91.91%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.73%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "91.46%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.98%",
     "time": 441,
-    "timeDay": 367,
-    "timeWeek": 441,
+    "timeDay": 386,
+    "timeWeek": 444,
     "timeMonth": 479,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2025-11-18": 117
+      "2025-11-18": 123
     }
   },
   {
@@ -355,7 +355,7 @@
     "uptime": "24.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.78%",
+    "uptimeMonth": "70.80%",
     "uptimeYear": "24.54%",
     "time": 996,
     "timeDay": 582,
@@ -664,19 +664,19 @@
     "url": "https://www.kraeuchi.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.kraeuchi.ch.ico",
     "slug": "glas-werkstatt-kraeuchi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "91.96%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "91.52%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.98%",
-    "time": 566,
-    "timeDay": 386,
-    "timeWeek": 453,
-    "timeMonth": 511,
+    "time": 567,
+    "timeDay": 439,
+    "timeWeek": 473,
+    "timeMonth": 516,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2025-11-18": 116
+      "2025-11-18": 122
     }
   },
   {
@@ -799,19 +799,19 @@
     "url": "https://www.huldi-stucki.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.huldi-stucki.ch.ico",
     "slug": "huldi-stucki-ag",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "90.83%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "90.39%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 591,
-    "timeDay": 463,
-    "timeWeek": 539,
-    "timeMonth": 555,
+    "timeDay": 460,
+    "timeWeek": 531,
+    "timeMonth": 552,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2025-11-18": 132
+      "2025-11-18": 138
     }
   },
   {
@@ -1094,7 +1094,7 @@
     "timeMonth": 171,
     "timeYear": 1764,
     "dailyMinutesDown": {
-      "2025-11-18": 966,
+      "2025-11-18": 974,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1443,19 +1443,19 @@
     "url": "https://www.sport-amstutz.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.sport-amstutz.ch.ico",
     "slug": "sport-amstutz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "92.13%",
-    "uptimeWeek": "98.88%",
+    "uptimeDay": "92.00%",
+    "uptimeWeek": "98.86%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
-    "time": 344,
-    "timeDay": 282,
-    "timeWeek": 337,
-    "timeMonth": 329,
-    "timeYear": 354,
+    "time": 357,
+    "timeDay": 1396,
+    "timeWeek": 890,
+    "timeMonth": 514,
+    "timeYear": 372,
     "dailyMinutesDown": {
-      "2025-11-18": 113
+      "2025-11-18": 115
     }
   },
   {
