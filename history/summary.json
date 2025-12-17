@@ -100,7 +100,7 @@
     "uptimeDay": "96.97%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 2633,
     "timeDay": 2350,
     "timeWeek": 2292,
@@ -115,8 +115,7 @@
       "2025-08-29": 28,
       "2025-08-27": 49,
       "2025-08-26": 31,
-      "2025-06-05": 19,
-      "2024-12-17": 498
+      "2025-06-05": 19
     }
   },
   {
@@ -740,7 +739,7 @@
     "uptimeDay": "96.97%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 431,
     "timeDay": 326,
     "timeWeek": 290,
@@ -754,8 +753,7 @@
       "2025-09-02": 19,
       "2025-08-30": 16,
       "2025-08-29": 11,
-      "2025-08-27": 18,
-      "2024-12-17": 497
+      "2025-08-27": 18
     }
   },
   {
@@ -851,9 +849,9 @@
     "slug": "insecor",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.61%",
     "time": 950,
     "timeDay": 967,
@@ -861,7 +859,6 @@
     "timeMonth": 1058,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2025-12-16": 9,
       "2025-12-12": 24,
       "2025-12-11": 23,
       "2025-12-10": 58,
@@ -938,7 +935,7 @@
     "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.26%",
+    "uptimeWeek": "91.73%",
     "uptimeMonth": "88.86%",
     "uptimeYear": "98.94%",
     "time": 418,
@@ -1036,7 +1033,7 @@
     "uptimeDay": "96.96%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 407,
     "timeDay": 308,
     "timeWeek": 342,
@@ -1050,8 +1047,7 @@
       "2025-08-30": 16,
       "2025-08-29": 10,
       "2025-08-27": 16,
-      "2025-07-24": 16,
-      "2024-12-17": 497
+      "2025-07-24": 16
     }
   },
   {
@@ -1106,18 +1102,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.philosophie.ch.ico",
     "slug": "philosophie-ch",
     "status": "down",
-    "uptime": "89.70%",
+    "uptime": "89.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "62.73%",
+    "uptimeYear": "62.72%",
     "time": 1751,
     "timeDay": 179,
     "timeWeek": 148,
     "timeMonth": 187,
     "timeYear": 1662,
     "dailyMinutesDown": {
-      "2025-12-16": 1423,
+      "2025-12-17": 30,
+      "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -1437,15 +1434,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 1257,
     "timeDay": 963,
     "timeWeek": 1320,
     "timeMonth": 1267,
     "timeYear": 1223,
     "dailyMinutesDown": {
-      "2025-06-05": 21,
-      "2024-12-17": 498
+      "2025-06-05": 21
     }
   },
   {
