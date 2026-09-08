@@ -323,11 +323,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.farbwerkag.ch.ico",
     "slug": "farbwerk-herren-online-shop",
     "status": "up",
-    "uptime": "59.41%",
+    "uptime": "59.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.41%",
+    "uptimeYear": "86.43%",
     "time": 975,
     "timeDay": 763,
     "timeWeek": 1139,
@@ -383,7 +383,6 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
       "2025-12-05": 27
     }
   },
@@ -610,10 +609,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.insecor.ch.ico",
     "slug": "insecor",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "97.77%",
-    "uptimeMonth": "98.87%",
+    "uptime": "99.79%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "98.96%",
     "time": 1014,
     "timeDay": 1062,
@@ -621,7 +620,7 @@
     "timeMonth": 1073,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2026-03-20": 22,
+      "2026-03-20": 38,
       "2026-03-21": 42,
       "2026-03-25": 165,
       "2026-03-27": 60,
@@ -691,7 +690,7 @@
       "2026-09-02": 20,
       "2026-09-03": 135,
       "2026-09-04": 20,
-      "2026-09-07": 34
+      "2026-09-07": 29
     }
   },
   {
@@ -733,7 +732,6 @@
     "timeMonth": 882,
     "timeYear": 1155,
     "dailyMinutesDown": {
-      "2025-09-08": 55,
       "2025-09-15": 64,
       "2025-09-22": 181,
       "2025-09-29": 163,
