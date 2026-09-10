@@ -323,11 +323,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.farbwerkag.ch.ico",
     "slug": "farbwerk-herren-online-shop",
     "status": "up",
-    "uptime": "59.57%",
+    "uptime": "59.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.08%",
+    "uptimeYear": "87.11%",
     "time": 975,
     "timeDay": 650,
     "timeWeek": 1022,
@@ -606,19 +606,18 @@
     "url": "https://www.insecor.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.insecor.ch.ico",
     "slug": "insecor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.12%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.10%",
     "uptimeMonth": "98.93%",
-    "uptimeYear": "98.96%",
+    "uptimeYear": "98.97%",
     "time": 1015,
     "timeDay": 1092,
     "timeWeek": 1024,
     "timeMonth": 1073,
     "timeYear": 1018,
     "dailyMinutesDown": {
-      "2026-03-20": 22,
       "2026-03-21": 42,
       "2026-03-25": 165,
       "2026-03-27": 60,
@@ -689,7 +688,7 @@
       "2026-09-03": 135,
       "2026-09-04": 20,
       "2026-09-07": 29,
-      "2026-09-10": 17
+      "2026-09-10": 19
     }
   },
   {
@@ -989,9 +988,9 @@
     "slug": "schnyder-werbung",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "72.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "72.53%",
     "uptimeYear": "97.71%",
     "time": 1241,
     "timeDay": 1080,
@@ -1011,8 +1010,7 @@
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
-      "2026-08-17": 366,
-      "2026-09-10": 4
+      "2026-08-17": 366
     }
   },
   {
